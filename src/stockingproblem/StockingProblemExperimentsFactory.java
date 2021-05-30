@@ -55,7 +55,7 @@ public class StockingProblemExperimentsFactory extends ExperimentsFactory {
                 recombination = new RecombinationCycleCrossover<>(recombinationProbability);
                 break;
             case "recombination3": //TODO
-                recombination = new Recombination3<>(recombinationProbability);
+                recombination = new RecombinationOrderCrossover<>(recombinationProbability);
                 break;
         }
 

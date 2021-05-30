@@ -12,7 +12,6 @@ public class MutationInvertion<I extends IntVectorIndividual, P extends Problem<
 
     @Override
     public void mutate(I ind) {
-        //TODO
         int cut1 = GeneticAlgorithm.random.nextInt(ind.getNumGenes());
         int cut2;
         do {
