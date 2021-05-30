@@ -18,15 +18,27 @@ public class RecombinationCycleCrossover<I extends IntVectorIndividual, P extend
         child1 = new int[numGenes];
         child2 = new int[numGenes];
 
-        int geneInd1, geneInd1Pos;
-        int geneInd2 = ind1.getGene(0); // 1st iteration has index 0 gene/alele of ind 1
-        do {
-            geneInd1 = ind1.getGene(ind1.getIndexof(geneInd2));
-            geneInd1Pos = ind1.getIndexof(geneInd1);
-            child1[geneInd1Pos] = geneInd1;
-            geneInd2 = ind2.getGene(geneInd1Pos);
-            child2[geneInd1Pos] = geneInd2;
-        } while (ind1.getGene(0) != geneInd2);
+        int geneParent1, geneParent2 = ind1.getGene(0), indexGeneParent1;
+        boolean cycle = false;
+        while (!cycle) {
+            //get gene and its index on parent 1
+            indexGeneParent1 = ind1.getIndexof(geneParent2);
+            geneParent1 = ind1.getGene(indexGeneParent1);
+
+            //gene from parent 2 with same gene index from parent 1
+            // X   X   X   X    Parent 1
+            //     |
+            // X   X   X   X    Parent 2
+            geneParent2 = ind2.getGene(indexGeneParent1);
+
+            child1[indexGeneParent1] = geneParent1;
+            child2[indexGeneParent1] = geneParent2;
+
+            if (ind1.getIndexof(geneParent2) == 0) { // cuz it starts on index 0
+                cycle = true;
+                break;
+            }
+        }
 
         for (int i = 0; i < numGenes; i++) {
             if (child1[i] < 1) { //same as test for child2
@@ -41,6 +53,8 @@ public class RecombinationCycleCrossover<I extends IntVectorIndividual, P extend
         }
 
     }
+
+
 
     @Override
     public String toString() {
