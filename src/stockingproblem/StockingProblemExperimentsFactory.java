@@ -52,7 +52,7 @@ public class StockingProblemExperimentsFactory extends ExperimentsFactory {
                 recombination = new RecombinationPartialMapped<>(recombinationProbability);
                 break;
             case "recombination2": //TODO
-                recombination = new Recombination2<>(recombinationProbability);
+                recombination = new RecombinationCycleCrossover<>(recombinationProbability);
                 break;
             case "recombination3": //TODO
                 recombination = new Recombination3<>(recombinationProbability);
