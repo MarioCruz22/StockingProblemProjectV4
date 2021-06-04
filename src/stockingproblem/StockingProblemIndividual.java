@@ -1,6 +1,7 @@
 package stockingproblem;
 
 import algorithms.IntVectorIndividual;
+import ga.GeneticAlgorithm;
 
 import java.util.Random;
 
@@ -18,7 +19,7 @@ public class StockingProblemIndividual extends IntVectorIndividual<StockingProbl
         //TODO
 
         for (int i = 0; i < genome.length; ) {
-            Random random = new Random();
+            Random random = GeneticAlgorithm.random;
             int id = random.nextInt(size) + 1;
             for (int j = 0; j <= i; j++) {
                 if (genome[j] == id) {

@@ -51,26 +51,29 @@ public class StockingProblemExperimentsFactory extends ExperimentsFactory {
             case "pmx":
                 recombination = new RecombinationPartialMapped<>(recombinationProbability);
                 break;
-            case "recombination2": //TODO
+            case "cycle_crossover":
                 recombination = new RecombinationCycleCrossover<>(recombinationProbability);
                 break;
-            case "recombination3": //TODO
+            case "order_crossover":
                 recombination = new RecombinationOrderCrossover<>(recombinationProbability);
                 break;
         }
 
         //MUTATION
-        double mutationProbability = Double.parseDouble(getParameterValue("Mutation probability"));
+        double mutationProbability = Double.parseDouble(getParameterValue("Mutation_probability"));
 
         switch (getParameterValue("Mutation")) {
             case "insert":
                 mutation = new MutationInsert<>(mutationProbability);
                 break;
-            case "mutation2": //TODO
+            case "swap":
                 mutation = new MutationSwap<>(mutationProbability);
                 break;
-            case "mutation3": //TODO
+            case "inversion":
                 mutation = new MutationInvertion<>(mutationProbability);
+                break;
+            case "scramble":
+                mutation = new MutationScramble<>(mutationProbability);
                 break;
         }
 
