@@ -1,0 +1,33 @@
+Runs: 40
+
+Population_size: 200
+
+Max_generations: 500
+
+//--------------------------------
+//tournament
+//roulette_wheel
+Selection: tournament
+
+Tournament_size: 2, 4, 6, 8
+
+//--------------------------------
+
+Recombination: pmx, cycle_crossover, order_crossover 
+
+Recombination_probability: 0.4, 0.6, 0.8
+
+//--------------------------------
+
+Mutation: insert, swap, invertion, scramble
+
+Mutation_probability: 0.02, 0.07, 0.15
+
+//--------------------------------
+
+Problem_file: ./Problema4.txt
+
+//--------------------------------
+
+Statistic: BestIndividual
+Statistic: BestAverage
