@@ -1,0 +1,17 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Fitness:	Seed:
+100	250	Tournament(2)	PMX	0.9	Insert	0.02		63.2	1
+100	250	Tournament(2)	PMX	0.9	Insert	0.05		63.2	1
+100	250	Tournament(2)	PMX	0.9	Insert	0.07		63.2	1
+100	250	Tournament(2)	PMX	0.9	Insert	0.12		63.2	1
+100	250	Tournament(2)	PMX	0.9	Swap	0.02		63.2	1
+100	250	Tournament(2)	PMX	0.9	Swap	0.05		63.2	1
+100	250	Tournament(2)	PMX	0.9	Swap	0.07		63.2	1
+100	250	Tournament(2)	PMX	0.9	Swap	0.12		63.2	1
+100	250	Tournament(2)	PMX	0.9	Invertion	0.02		63.2	1
+100	250	Tournament(2)	PMX	0.9	Invertion	0.05		63.2	1
+100	250	Tournament(2)	PMX	0.9	Invertion	0.07		63.2	1
+100	250	Tournament(2)	PMX	0.9	Invertion	0.12		63.2	1
+100	250	Tournament(2)	PMX	0.9	Scramble	0.02		63.2	1
+100	250	Tournament(2)	PMX	0.9	Scramble	0.05		63.2	1
+100	250	Tournament(2)	PMX	0.9	Scramble	0.07		63.2	1
+100	250	Tournament(2)	PMX	0.9	Scramble	0.12		63.2	1

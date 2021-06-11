@@ -69,7 +69,7 @@ public class StockingProblemExperimentsFactory extends ExperimentsFactory {
             case "swap":
                 mutation = new MutationSwap<>(mutationProbability);
                 break;
-            case "inversion":
+            case "invertion":
                 mutation = new MutationInvertion<>(mutationProbability);
                 break;
             case "scramble":
