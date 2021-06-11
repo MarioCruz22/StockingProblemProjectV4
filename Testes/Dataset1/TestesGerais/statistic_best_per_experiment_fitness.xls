@@ -1,0 +1,865 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Fitness:	Seed:
+100	1000	Tournament(2)	PMX	0.4	Insert	0.02		63.2	2
+100	1000	Tournament(2)	PMX	0.4	Insert	0.07		63.2	1
+100	1000	Tournament(2)	PMX	0.4	Insert	0.15		63.2	2
+100	1000	Tournament(2)	PMX	0.4	Swap	0.02		63.2	3
+100	1000	Tournament(2)	PMX	0.4	Swap	0.07		63.2	1
+100	1000	Tournament(2)	PMX	0.4	Swap	0.15		63.2	2
+100	1000	Tournament(2)	PMX	0.4	Invertion	0.02		63.2	2
+100	1000	Tournament(2)	PMX	0.4	Invertion	0.07		63.2	1
+100	1000	Tournament(2)	PMX	0.4	Invertion	0.15		63.2	2
+100	1000	Tournament(2)	PMX	0.4	Scramble	0.02		63.2	1
+100	1000	Tournament(2)	PMX	0.4	Scramble	0.07		63.2	2
+100	1000	Tournament(2)	PMX	0.4	Scramble	0.15		63.2	1
+100	1000	Tournament(2)	PMX	0.6	Insert	0.02		63.2	1
+100	1000	Tournament(2)	PMX	0.6	Insert	0.07		63.2	1
+100	1000	Tournament(2)	PMX	0.6	Insert	0.15		63.2	1
+100	1000	Tournament(2)	PMX	0.6	Swap	0.02		63.2	1
+100	1000	Tournament(2)	PMX	0.6	Swap	0.07		63.2	1
+100	1000	Tournament(2)	PMX	0.6	Swap	0.15		63.2	1
+100	1000	Tournament(2)	PMX	0.6	Invertion	0.02		63.2	1
+100	1000	Tournament(2)	PMX	0.6	Invertion	0.07		63.2	1
+100	1000	Tournament(2)	PMX	0.6	Invertion	0.15		63.2	1
+100	1000	Tournament(2)	PMX	0.6	Scramble	0.02		63.2	1
+100	1000	Tournament(2)	PMX	0.6	Scramble	0.07		63.2	1
+100	1000	Tournament(2)	PMX	0.6	Scramble	0.15		63.2	1
+100	1000	Tournament(2)	PMX	0.8	Insert	0.02		63.2	1
+100	1000	Tournament(2)	PMX	0.8	Insert	0.07		63.2	1
+100	1000	Tournament(2)	PMX	0.8	Insert	0.15		63.2	1
+100	1000	Tournament(2)	PMX	0.8	Swap	0.02		63.2	1
+100	1000	Tournament(2)	PMX	0.8	Swap	0.07		63.2	1
+100	1000	Tournament(2)	PMX	0.8	Swap	0.15		63.2	1
+100	1000	Tournament(2)	PMX	0.8	Invertion	0.02		63.2	2
+100	1000	Tournament(2)	PMX	0.8	Invertion	0.07		63.2	1
+100	1000	Tournament(2)	PMX	0.8	Invertion	0.15		63.2	1
+100	1000	Tournament(2)	PMX	0.8	Scramble	0.02		63.2	1
+100	1000	Tournament(2)	PMX	0.8	Scramble	0.07		63.2	1
+100	1000	Tournament(2)	PMX	0.8	Scramble	0.15		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.4	Insert	0.02		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.4	Insert	0.07		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.4	Insert	0.15		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.4	Swap	0.02		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.4	Swap	0.07		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.4	Swap	0.15		63.2	2
+100	1000	Tournament(2)	Cycle Crossover	0.4	Invertion	0.02		63.2	2
+100	1000	Tournament(2)	Cycle Crossover	0.4	Invertion	0.07		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.4	Invertion	0.15		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.4	Scramble	0.02		63.2	6
+100	1000	Tournament(2)	Cycle Crossover	0.4	Scramble	0.07		63.2	2
+100	1000	Tournament(2)	Cycle Crossover	0.4	Scramble	0.15		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.6	Insert	0.02		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.6	Insert	0.07		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.6	Insert	0.15		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.6	Swap	0.02		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.6	Swap	0.07		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.6	Swap	0.15		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.6	Invertion	0.02		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.6	Invertion	0.07		63.2	2
+100	1000	Tournament(2)	Cycle Crossover	0.6	Invertion	0.15		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.6	Scramble	0.02		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.6	Scramble	0.07		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.6	Scramble	0.15		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.8	Insert	0.02		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.8	Insert	0.07		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.8	Insert	0.15		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.8	Swap	0.02		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.8	Swap	0.07		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.8	Swap	0.15		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.8	Invertion	0.02		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.8	Invertion	0.07		63.2	2
+100	1000	Tournament(2)	Cycle Crossover	0.8	Invertion	0.15		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.8	Scramble	0.02		63.2	2
+100	1000	Tournament(2)	Cycle Crossover	0.8	Scramble	0.07		63.2	1
+100	1000	Tournament(2)	Cycle Crossover	0.8	Scramble	0.15		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.4	Insert	0.02		63.2	2
+100	1000	Tournament(2)	Order Crossover	0.4	Insert	0.07		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.4	Insert	0.15		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.4	Swap	0.02		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.4	Swap	0.07		63.2	2
+100	1000	Tournament(2)	Order Crossover	0.4	Swap	0.15		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.4	Invertion	0.02		63.2	2
+100	1000	Tournament(2)	Order Crossover	0.4	Invertion	0.07		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.4	Invertion	0.15		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.4	Scramble	0.02		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.4	Scramble	0.07		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.4	Scramble	0.15		63.2	2
+100	1000	Tournament(2)	Order Crossover	0.6	Insert	0.02		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.6	Insert	0.07		63.2	3
+100	1000	Tournament(2)	Order Crossover	0.6	Insert	0.15		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.6	Swap	0.02		63.2	2
+100	1000	Tournament(2)	Order Crossover	0.6	Swap	0.07		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.6	Swap	0.15		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.6	Invertion	0.02		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.6	Invertion	0.07		63.2	3
+100	1000	Tournament(2)	Order Crossover	0.6	Invertion	0.15		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.6	Scramble	0.02		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.6	Scramble	0.07		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.6	Scramble	0.15		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.8	Insert	0.02		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.8	Insert	0.07		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.8	Insert	0.15		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.8	Swap	0.02		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.8	Swap	0.07		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.8	Swap	0.15		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.8	Invertion	0.02		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.8	Invertion	0.07		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.8	Invertion	0.15		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.8	Scramble	0.02		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.8	Scramble	0.07		63.2	1
+100	1000	Tournament(2)	Order Crossover	0.8	Scramble	0.15		63.2	1
+100	1000	Tournament(4)	PMX	0.4	Insert	0.02		63.2	2
+100	1000	Tournament(4)	PMX	0.4	Insert	0.07		63.2	2
+100	1000	Tournament(4)	PMX	0.4	Insert	0.15		63.2	2
+100	1000	Tournament(4)	PMX	0.4	Swap	0.02		63.2	4
+100	1000	Tournament(4)	PMX	0.4	Swap	0.07		63.2	2
+100	1000	Tournament(4)	PMX	0.4	Swap	0.15		63.2	1
+100	1000	Tournament(4)	PMX	0.4	Invertion	0.02		63.2	2
+100	1000	Tournament(4)	PMX	0.4	Invertion	0.07		63.2	2
+100	1000	Tournament(4)	PMX	0.4	Invertion	0.15		63.2	2
+100	1000	Tournament(4)	PMX	0.4	Scramble	0.02		63.2	2
+100	1000	Tournament(4)	PMX	0.4	Scramble	0.07		63.2	1
+100	1000	Tournament(4)	PMX	0.4	Scramble	0.15		63.2	2
+100	1000	Tournament(4)	PMX	0.6	Insert	0.02		63.2	2
+100	1000	Tournament(4)	PMX	0.6	Insert	0.07		63.2	2
+100	1000	Tournament(4)	PMX	0.6	Insert	0.15		63.2	1
+100	1000	Tournament(4)	PMX	0.6	Swap	0.02		63.2	2
+100	1000	Tournament(4)	PMX	0.6	Swap	0.07		63.2	2
+100	1000	Tournament(4)	PMX	0.6	Swap	0.15		63.2	2
+100	1000	Tournament(4)	PMX	0.6	Invertion	0.02		63.2	2
+100	1000	Tournament(4)	PMX	0.6	Invertion	0.07		63.2	2
+100	1000	Tournament(4)	PMX	0.6	Invertion	0.15		63.2	1
+100	1000	Tournament(4)	PMX	0.6	Scramble	0.02		63.2	1
+100	1000	Tournament(4)	PMX	0.6	Scramble	0.07		63.2	1
+100	1000	Tournament(4)	PMX	0.6	Scramble	0.15		63.2	1
+100	1000	Tournament(4)	PMX	0.8	Insert	0.02		63.2	1
+100	1000	Tournament(4)	PMX	0.8	Insert	0.07		63.2	1
+100	1000	Tournament(4)	PMX	0.8	Insert	0.15		63.2	1
+100	1000	Tournament(4)	PMX	0.8	Swap	0.02		63.2	1
+100	1000	Tournament(4)	PMX	0.8	Swap	0.07		63.2	1
+100	1000	Tournament(4)	PMX	0.8	Swap	0.15		63.2	1
+100	1000	Tournament(4)	PMX	0.8	Invertion	0.02		63.2	1
+100	1000	Tournament(4)	PMX	0.8	Invertion	0.07		63.2	1
+100	1000	Tournament(4)	PMX	0.8	Invertion	0.15		63.2	2
+100	1000	Tournament(4)	PMX	0.8	Scramble	0.02		63.2	1
+100	1000	Tournament(4)	PMX	0.8	Scramble	0.07		63.2	1
+100	1000	Tournament(4)	PMX	0.8	Scramble	0.15		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.4	Insert	0.02		63.2	5
+100	1000	Tournament(4)	Cycle Crossover	0.4	Insert	0.07		63.2	2
+100	1000	Tournament(4)	Cycle Crossover	0.4	Insert	0.15		63.2	2
+100	1000	Tournament(4)	Cycle Crossover	0.4	Swap	0.02		63.2	15
+100	1000	Tournament(4)	Cycle Crossover	0.4	Swap	0.07		63.2	2
+100	1000	Tournament(4)	Cycle Crossover	0.4	Swap	0.15		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.4	Invertion	0.02		63.2	3
+100	1000	Tournament(4)	Cycle Crossover	0.4	Invertion	0.07		63.2	2
+100	1000	Tournament(4)	Cycle Crossover	0.4	Invertion	0.15		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.4	Scramble	0.02		63.2	3
+100	1000	Tournament(4)	Cycle Crossover	0.4	Scramble	0.07		63.2	2
+100	1000	Tournament(4)	Cycle Crossover	0.4	Scramble	0.15		63.2	2
+100	1000	Tournament(4)	Cycle Crossover	0.6	Insert	0.02		63.2	3
+100	1000	Tournament(4)	Cycle Crossover	0.6	Insert	0.07		63.2	2
+100	1000	Tournament(4)	Cycle Crossover	0.6	Insert	0.15		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.6	Swap	0.02		63.2	2
+100	1000	Tournament(4)	Cycle Crossover	0.6	Swap	0.07		63.2	2
+100	1000	Tournament(4)	Cycle Crossover	0.6	Swap	0.15		63.2	2
+100	1000	Tournament(4)	Cycle Crossover	0.6	Invertion	0.02		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.6	Invertion	0.07		63.2	3
+100	1000	Tournament(4)	Cycle Crossover	0.6	Invertion	0.15		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.6	Scramble	0.02		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.6	Scramble	0.07		63.2	2
+100	1000	Tournament(4)	Cycle Crossover	0.6	Scramble	0.15		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.8	Insert	0.02		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.8	Insert	0.07		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.8	Insert	0.15		63.2	2
+100	1000	Tournament(4)	Cycle Crossover	0.8	Swap	0.02		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.8	Swap	0.07		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.8	Swap	0.15		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.8	Invertion	0.02		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.8	Invertion	0.07		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.8	Invertion	0.15		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.8	Scramble	0.02		63.2	2
+100	1000	Tournament(4)	Cycle Crossover	0.8	Scramble	0.07		63.2	1
+100	1000	Tournament(4)	Cycle Crossover	0.8	Scramble	0.15		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.4	Insert	0.02		63.2	3
+100	1000	Tournament(4)	Order Crossover	0.4	Insert	0.07		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.4	Insert	0.15		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.4	Swap	0.02		63.2	5
+100	1000	Tournament(4)	Order Crossover	0.4	Swap	0.07		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.4	Swap	0.15		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.4	Invertion	0.02		63.2	5
+100	1000	Tournament(4)	Order Crossover	0.4	Invertion	0.07		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.4	Invertion	0.15		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.4	Scramble	0.02		63.2	2
+100	1000	Tournament(4)	Order Crossover	0.4	Scramble	0.07		63.2	2
+100	1000	Tournament(4)	Order Crossover	0.4	Scramble	0.15		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.6	Insert	0.02		63.2	2
+100	1000	Tournament(4)	Order Crossover	0.6	Insert	0.07		63.2	4
+100	1000	Tournament(4)	Order Crossover	0.6	Insert	0.15		63.2	7
+100	1000	Tournament(4)	Order Crossover	0.6	Swap	0.02		63.2	2
+100	1000	Tournament(4)	Order Crossover	0.6	Swap	0.07		63.2	2
+100	1000	Tournament(4)	Order Crossover	0.6	Swap	0.15		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.6	Invertion	0.02		63.2	2
+100	1000	Tournament(4)	Order Crossover	0.6	Invertion	0.07		63.2	2
+100	1000	Tournament(4)	Order Crossover	0.6	Invertion	0.15		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.6	Scramble	0.02		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.6	Scramble	0.07		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.6	Scramble	0.15		63.2	2
+100	1000	Tournament(4)	Order Crossover	0.8	Insert	0.02		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.8	Insert	0.07		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.8	Insert	0.15		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.8	Swap	0.02		63.2	5
+100	1000	Tournament(4)	Order Crossover	0.8	Swap	0.07		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.8	Swap	0.15		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.8	Invertion	0.02		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.8	Invertion	0.07		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.8	Invertion	0.15		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.8	Scramble	0.02		63.2	3
+100	1000	Tournament(4)	Order Crossover	0.8	Scramble	0.07		63.2	1
+100	1000	Tournament(4)	Order Crossover	0.8	Scramble	0.15		63.2	2
+100	1000	Tournament(6)	PMX	0.4	Insert	0.02		63.2	8
+100	1000	Tournament(6)	PMX	0.4	Insert	0.07		63.2	1
+100	1000	Tournament(6)	PMX	0.4	Insert	0.15		63.2	2
+100	1000	Tournament(6)	PMX	0.4	Swap	0.02		63.2	2
+100	1000	Tournament(6)	PMX	0.4	Swap	0.07		63.2	1
+100	1000	Tournament(6)	PMX	0.4	Swap	0.15		63.2	2
+100	1000	Tournament(6)	PMX	0.4	Invertion	0.02		63.2	7
+100	1000	Tournament(6)	PMX	0.4	Invertion	0.07		63.2	1
+100	1000	Tournament(6)	PMX	0.4	Invertion	0.15		63.2	2
+100	1000	Tournament(6)	PMX	0.4	Scramble	0.02		63.2	2
+100	1000	Tournament(6)	PMX	0.4	Scramble	0.07		63.2	2
+100	1000	Tournament(6)	PMX	0.4	Scramble	0.15		63.2	1
+100	1000	Tournament(6)	PMX	0.6	Insert	0.02		63.2	2
+100	1000	Tournament(6)	PMX	0.6	Insert	0.07		63.2	3
+100	1000	Tournament(6)	PMX	0.6	Insert	0.15		63.2	1
+100	1000	Tournament(6)	PMX	0.6	Swap	0.02		63.2	2
+100	1000	Tournament(6)	PMX	0.6	Swap	0.07		63.2	2
+100	1000	Tournament(6)	PMX	0.6	Swap	0.15		63.2	1
+100	1000	Tournament(6)	PMX	0.6	Invertion	0.02		63.2	2
+100	1000	Tournament(6)	PMX	0.6	Invertion	0.07		63.2	2
+100	1000	Tournament(6)	PMX	0.6	Invertion	0.15		63.2	1
+100	1000	Tournament(6)	PMX	0.6	Scramble	0.02		63.2	1
+100	1000	Tournament(6)	PMX	0.6	Scramble	0.07		63.2	2
+100	1000	Tournament(6)	PMX	0.6	Scramble	0.15		63.2	1
+100	1000	Tournament(6)	PMX	0.8	Insert	0.02		63.2	9
+100	1000	Tournament(6)	PMX	0.8	Insert	0.07		63.2	1
+100	1000	Tournament(6)	PMX	0.8	Insert	0.15		63.2	1
+100	1000	Tournament(6)	PMX	0.8	Swap	0.02		63.2	2
+100	1000	Tournament(6)	PMX	0.8	Swap	0.07		63.2	1
+100	1000	Tournament(6)	PMX	0.8	Swap	0.15		63.2	2
+100	1000	Tournament(6)	PMX	0.8	Invertion	0.02		63.2	2
+100	1000	Tournament(6)	PMX	0.8	Invertion	0.07		63.2	1
+100	1000	Tournament(6)	PMX	0.8	Invertion	0.15		63.2	2
+100	1000	Tournament(6)	PMX	0.8	Scramble	0.02		63.2	1
+100	1000	Tournament(6)	PMX	0.8	Scramble	0.07		63.2	1
+100	1000	Tournament(6)	PMX	0.8	Scramble	0.15		63.2	1
+100	1000	Tournament(6)	Cycle Crossover	0.4	Insert	0.02		63.2	6
+100	1000	Tournament(6)	Cycle Crossover	0.4	Insert	0.07		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.4	Insert	0.15		63.2	3
+100	1000	Tournament(6)	Cycle Crossover	0.4	Swap	0.02		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.4	Swap	0.07		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.4	Swap	0.15		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.4	Invertion	0.02		63.2	4
+100	1000	Tournament(6)	Cycle Crossover	0.4	Invertion	0.07		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.4	Invertion	0.15		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.4	Scramble	0.02		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.4	Scramble	0.07		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.4	Scramble	0.15		63.2	1
+100	1000	Tournament(6)	Cycle Crossover	0.6	Insert	0.02		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.6	Insert	0.07		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.6	Insert	0.15		63.2	1
+100	1000	Tournament(6)	Cycle Crossover	0.6	Swap	0.02		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.6	Swap	0.07		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.6	Swap	0.15		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.6	Invertion	0.02		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.6	Invertion	0.07		63.2	1
+100	1000	Tournament(6)	Cycle Crossover	0.6	Invertion	0.15		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.6	Scramble	0.02		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.6	Scramble	0.07		63.2	1
+100	1000	Tournament(6)	Cycle Crossover	0.6	Scramble	0.15		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.8	Insert	0.02		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.8	Insert	0.07		63.2	1
+100	1000	Tournament(6)	Cycle Crossover	0.8	Insert	0.15		63.2	4
+100	1000	Tournament(6)	Cycle Crossover	0.8	Swap	0.02		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.8	Swap	0.07		63.2	1
+100	1000	Tournament(6)	Cycle Crossover	0.8	Swap	0.15		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.8	Invertion	0.02		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.8	Invertion	0.07		63.2	1
+100	1000	Tournament(6)	Cycle Crossover	0.8	Invertion	0.15		63.2	1
+100	1000	Tournament(6)	Cycle Crossover	0.8	Scramble	0.02		63.2	2
+100	1000	Tournament(6)	Cycle Crossover	0.8	Scramble	0.07		63.2	1
+100	1000	Tournament(6)	Cycle Crossover	0.8	Scramble	0.15		63.2	1
+100	1000	Tournament(6)	Order Crossover	0.4	Insert	0.02		63.2	6
+100	1000	Tournament(6)	Order Crossover	0.4	Insert	0.07		63.2	2
+100	1000	Tournament(6)	Order Crossover	0.4	Insert	0.15		63.2	3
+100	1000	Tournament(6)	Order Crossover	0.4	Swap	0.02		63.2	2
+100	1000	Tournament(6)	Order Crossover	0.4	Swap	0.07		63.2	3
+100	1000	Tournament(6)	Order Crossover	0.4	Swap	0.15		63.2	3
+100	1000	Tournament(6)	Order Crossover	0.4	Invertion	0.02		63.2	8
+100	1000	Tournament(6)	Order Crossover	0.4	Invertion	0.07		63.2	3
+100	1000	Tournament(6)	Order Crossover	0.4	Invertion	0.15		63.2	2
+100	1000	Tournament(6)	Order Crossover	0.4	Scramble	0.02		63.2	2
+100	1000	Tournament(6)	Order Crossover	0.4	Scramble	0.07		63.2	1
+100	1000	Tournament(6)	Order Crossover	0.4	Scramble	0.15		63.2	2
+100	1000	Tournament(6)	Order Crossover	0.6	Insert	0.02		63.2	3
+100	1000	Tournament(6)	Order Crossover	0.6	Insert	0.07		63.2	1
+100	1000	Tournament(6)	Order Crossover	0.6	Insert	0.15		63.2	3
+100	1000	Tournament(6)	Order Crossover	0.6	Swap	0.02		63.2	3
+100	1000	Tournament(6)	Order Crossover	0.6	Swap	0.07		63.2	2
+100	1000	Tournament(6)	Order Crossover	0.6	Swap	0.15		63.2	3
+100	1000	Tournament(6)	Order Crossover	0.6	Invertion	0.02		63.2	3
+100	1000	Tournament(6)	Order Crossover	0.6	Invertion	0.07		63.2	2
+100	1000	Tournament(6)	Order Crossover	0.6	Invertion	0.15		63.2	1
+100	1000	Tournament(6)	Order Crossover	0.6	Scramble	0.02		63.2	2
+100	1000	Tournament(6)	Order Crossover	0.6	Scramble	0.07		63.2	2
+100	1000	Tournament(6)	Order Crossover	0.6	Scramble	0.15		63.2	1
+100	1000	Tournament(6)	Order Crossover	0.8	Insert	0.02		63.2	3
+100	1000	Tournament(6)	Order Crossover	0.8	Insert	0.07		63.2	4
+100	1000	Tournament(6)	Order Crossover	0.8	Insert	0.15		63.2	4
+100	1000	Tournament(6)	Order Crossover	0.8	Swap	0.02		63.2	1
+100	1000	Tournament(6)	Order Crossover	0.8	Swap	0.07		63.2	4
+100	1000	Tournament(6)	Order Crossover	0.8	Swap	0.15		63.2	1
+100	1000	Tournament(6)	Order Crossover	0.8	Invertion	0.02		63.2	2
+100	1000	Tournament(6)	Order Crossover	0.8	Invertion	0.07		63.2	1
+100	1000	Tournament(6)	Order Crossover	0.8	Invertion	0.15		63.2	1
+100	1000	Tournament(6)	Order Crossover	0.8	Scramble	0.02		63.2	1
+100	1000	Tournament(6)	Order Crossover	0.8	Scramble	0.07		63.2	1
+100	1000	Tournament(6)	Order Crossover	0.8	Scramble	0.15		63.2	1
+100	1000	Tournament(8)	PMX	0.4	Insert	0.02		63.2	2
+100	1000	Tournament(8)	PMX	0.4	Insert	0.07		63.2	2
+100	1000	Tournament(8)	PMX	0.4	Insert	0.15		63.2	2
+100	1000	Tournament(8)	PMX	0.4	Swap	0.02		63.2	2
+100	1000	Tournament(8)	PMX	0.4	Swap	0.07		63.2	1
+100	1000	Tournament(8)	PMX	0.4	Swap	0.15		63.2	2
+100	1000	Tournament(8)	PMX	0.4	Invertion	0.02		63.2	1
+100	1000	Tournament(8)	PMX	0.4	Invertion	0.07		63.2	1
+100	1000	Tournament(8)	PMX	0.4	Invertion	0.15		63.2	2
+100	1000	Tournament(8)	PMX	0.4	Scramble	0.02		63.2	2
+100	1000	Tournament(8)	PMX	0.4	Scramble	0.07		63.2	2
+100	1000	Tournament(8)	PMX	0.4	Scramble	0.15		63.2	1
+100	1000	Tournament(8)	PMX	0.6	Insert	0.02		63.2	3
+100	1000	Tournament(8)	PMX	0.6	Insert	0.07		63.2	2
+100	1000	Tournament(8)	PMX	0.6	Insert	0.15		63.2	2
+100	1000	Tournament(8)	PMX	0.6	Swap	0.02		63.2	3
+100	1000	Tournament(8)	PMX	0.6	Swap	0.07		63.2	2
+100	1000	Tournament(8)	PMX	0.6	Swap	0.15		63.2	1
+100	1000	Tournament(8)	PMX	0.6	Invertion	0.02		63.2	3
+100	1000	Tournament(8)	PMX	0.6	Invertion	0.07		63.2	2
+100	1000	Tournament(8)	PMX	0.6	Invertion	0.15		63.2	2
+100	1000	Tournament(8)	PMX	0.6	Scramble	0.02		63.2	2
+100	1000	Tournament(8)	PMX	0.6	Scramble	0.07		63.2	2
+100	1000	Tournament(8)	PMX	0.6	Scramble	0.15		63.2	1
+100	1000	Tournament(8)	PMX	0.8	Insert	0.02		63.2	2
+100	1000	Tournament(8)	PMX	0.8	Insert	0.07		63.2	2
+100	1000	Tournament(8)	PMX	0.8	Insert	0.15		63.2	2
+100	1000	Tournament(8)	PMX	0.8	Swap	0.02		63.2	2
+100	1000	Tournament(8)	PMX	0.8	Swap	0.07		63.2	2
+100	1000	Tournament(8)	PMX	0.8	Swap	0.15		63.2	2
+100	1000	Tournament(8)	PMX	0.8	Invertion	0.02		63.2	8
+100	1000	Tournament(8)	PMX	0.8	Invertion	0.07		63.2	2
+100	1000	Tournament(8)	PMX	0.8	Invertion	0.15		63.2	1
+100	1000	Tournament(8)	PMX	0.8	Scramble	0.02		63.2	2
+100	1000	Tournament(8)	PMX	0.8	Scramble	0.07		63.2	1
+100	1000	Tournament(8)	PMX	0.8	Scramble	0.15		63.2	1
+100	1000	Tournament(8)	Cycle Crossover	0.4	Insert	0.02		63.2	11
+100	1000	Tournament(8)	Cycle Crossover	0.4	Insert	0.07		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.4	Insert	0.15		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.4	Swap	0.02		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.4	Swap	0.07		63.2	3
+100	1000	Tournament(8)	Cycle Crossover	0.4	Swap	0.15		63.2	1
+100	1000	Tournament(8)	Cycle Crossover	0.4	Invertion	0.02		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.4	Invertion	0.07		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.4	Invertion	0.15		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.4	Scramble	0.02		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.4	Scramble	0.07		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.4	Scramble	0.15		63.2	1
+100	1000	Tournament(8)	Cycle Crossover	0.6	Insert	0.02		63.2	9
+100	1000	Tournament(8)	Cycle Crossover	0.6	Insert	0.07		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.6	Insert	0.15		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.6	Swap	0.02		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.6	Swap	0.07		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.6	Swap	0.15		63.2	1
+100	1000	Tournament(8)	Cycle Crossover	0.6	Invertion	0.02		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.6	Invertion	0.07		63.2	1
+100	1000	Tournament(8)	Cycle Crossover	0.6	Invertion	0.15		63.2	1
+100	1000	Tournament(8)	Cycle Crossover	0.6	Scramble	0.02		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.6	Scramble	0.07		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.6	Scramble	0.15		63.2	1
+100	1000	Tournament(8)	Cycle Crossover	0.8	Insert	0.02		63.2	9
+100	1000	Tournament(8)	Cycle Crossover	0.8	Insert	0.07		63.2	3
+100	1000	Tournament(8)	Cycle Crossover	0.8	Insert	0.15		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.8	Swap	0.02		63.2	3
+100	1000	Tournament(8)	Cycle Crossover	0.8	Swap	0.07		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.8	Swap	0.15		63.2	1
+100	1000	Tournament(8)	Cycle Crossover	0.8	Invertion	0.02		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.8	Invertion	0.07		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.8	Invertion	0.15		63.2	1
+100	1000	Tournament(8)	Cycle Crossover	0.8	Scramble	0.02		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.8	Scramble	0.07		63.2	2
+100	1000	Tournament(8)	Cycle Crossover	0.8	Scramble	0.15		63.2	1
+100	1000	Tournament(8)	Order Crossover	0.4	Insert	0.02		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.4	Insert	0.07		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.4	Insert	0.15		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.4	Swap	0.02		63.2	6
+100	1000	Tournament(8)	Order Crossover	0.4	Swap	0.07		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.4	Swap	0.15		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.4	Invertion	0.02		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.4	Invertion	0.07		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.4	Invertion	0.15		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.4	Scramble	0.02		63.2	1
+100	1000	Tournament(8)	Order Crossover	0.4	Scramble	0.07		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.4	Scramble	0.15		63.2	1
+100	1000	Tournament(8)	Order Crossover	0.6	Insert	0.02		63.2	3
+100	1000	Tournament(8)	Order Crossover	0.6	Insert	0.07		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.6	Insert	0.15		63.2	5
+100	1000	Tournament(8)	Order Crossover	0.6	Swap	0.02		63.2	5
+100	1000	Tournament(8)	Order Crossover	0.6	Swap	0.07		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.6	Swap	0.15		63.2	3
+100	1000	Tournament(8)	Order Crossover	0.6	Invertion	0.02		63.2	5
+100	1000	Tournament(8)	Order Crossover	0.6	Invertion	0.07		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.6	Invertion	0.15		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.6	Scramble	0.02		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.6	Scramble	0.07		63.2	1
+100	1000	Tournament(8)	Order Crossover	0.6	Scramble	0.15		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.8	Insert	0.02		63.2	3
+100	1000	Tournament(8)	Order Crossover	0.8	Insert	0.07		63.2	1
+100	1000	Tournament(8)	Order Crossover	0.8	Insert	0.15		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.8	Swap	0.02		63.2	7
+100	1000	Tournament(8)	Order Crossover	0.8	Swap	0.07		63.2	1
+100	1000	Tournament(8)	Order Crossover	0.8	Swap	0.15		63.2	2
+100	1000	Tournament(8)	Order Crossover	0.8	Invertion	0.02		63.2	3
+100	1000	Tournament(8)	Order Crossover	0.8	Invertion	0.07		63.2	1
+100	1000	Tournament(8)	Order Crossover	0.8	Invertion	0.15		63.2	1
+100	1000	Tournament(8)	Order Crossover	0.8	Scramble	0.02		63.2	3
+100	1000	Tournament(8)	Order Crossover	0.8	Scramble	0.07		63.2	1
+100	1000	Tournament(8)	Order Crossover	0.8	Scramble	0.15		63.2	1
+200	500	Tournament(2)	PMX	0.4	Insert	0.02		63.2	3
+200	500	Tournament(2)	PMX	0.4	Insert	0.07		63.2	1
+200	500	Tournament(2)	PMX	0.4	Insert	0.15		63.2	1
+200	500	Tournament(2)	PMX	0.4	Swap	0.02		63.2	1
+200	500	Tournament(2)	PMX	0.4	Swap	0.07		63.2	1
+200	500	Tournament(2)	PMX	0.4	Swap	0.15		63.2	1
+200	500	Tournament(2)	PMX	0.4	Invertion	0.02		63.2	1
+200	500	Tournament(2)	PMX	0.4	Invertion	0.07		63.2	1
+200	500	Tournament(2)	PMX	0.4	Invertion	0.15		63.2	1
+200	500	Tournament(2)	PMX	0.4	Scramble	0.02		63.2	1
+200	500	Tournament(2)	PMX	0.4	Scramble	0.07		63.2	1
+200	500	Tournament(2)	PMX	0.4	Scramble	0.15		63.2	1
+200	500	Tournament(2)	PMX	0.6	Insert	0.02		63.2	1
+200	500	Tournament(2)	PMX	0.6	Insert	0.07		63.2	1
+200	500	Tournament(2)	PMX	0.6	Insert	0.15		63.2	1
+200	500	Tournament(2)	PMX	0.6	Swap	0.02		63.2	1
+200	500	Tournament(2)	PMX	0.6	Swap	0.07		63.2	1
+200	500	Tournament(2)	PMX	0.6	Swap	0.15		63.2	1
+200	500	Tournament(2)	PMX	0.6	Invertion	0.02		63.2	1
+200	500	Tournament(2)	PMX	0.6	Invertion	0.07		63.2	1
+200	500	Tournament(2)	PMX	0.6	Invertion	0.15		63.2	1
+200	500	Tournament(2)	PMX	0.6	Scramble	0.02		63.2	1
+200	500	Tournament(2)	PMX	0.6	Scramble	0.07		63.2	1
+200	500	Tournament(2)	PMX	0.6	Scramble	0.15		63.2	1
+200	500	Tournament(2)	PMX	0.8	Insert	0.02		63.2	1
+200	500	Tournament(2)	PMX	0.8	Insert	0.07		63.2	1
+200	500	Tournament(2)	PMX	0.8	Insert	0.15		63.2	1
+200	500	Tournament(2)	PMX	0.8	Swap	0.02		63.2	1
+200	500	Tournament(2)	PMX	0.8	Swap	0.07		63.2	1
+200	500	Tournament(2)	PMX	0.8	Swap	0.15		63.2	1
+200	500	Tournament(2)	PMX	0.8	Invertion	0.02		63.2	1
+200	500	Tournament(2)	PMX	0.8	Invertion	0.07		63.2	1
+200	500	Tournament(2)	PMX	0.8	Invertion	0.15		63.2	1
+200	500	Tournament(2)	PMX	0.8	Scramble	0.02		63.2	1
+200	500	Tournament(2)	PMX	0.8	Scramble	0.07		63.2	1
+200	500	Tournament(2)	PMX	0.8	Scramble	0.15		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.4	Insert	0.02		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.4	Insert	0.07		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.4	Insert	0.15		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.4	Swap	0.02		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.4	Swap	0.07		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.4	Swap	0.15		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.4	Invertion	0.02		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.4	Invertion	0.07		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.4	Invertion	0.15		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.4	Scramble	0.02		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.4	Scramble	0.07		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.4	Scramble	0.15		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.6	Insert	0.02		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.6	Insert	0.07		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.6	Insert	0.15		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.6	Swap	0.02		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.6	Swap	0.07		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.6	Swap	0.15		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.6	Invertion	0.02		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.6	Invertion	0.07		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.6	Invertion	0.15		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.6	Scramble	0.02		63.2	2
+200	500	Tournament(2)	Cycle Crossover	0.6	Scramble	0.07		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.6	Scramble	0.15		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.8	Insert	0.02		63.2	2
+200	500	Tournament(2)	Cycle Crossover	0.8	Insert	0.07		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.8	Insert	0.15		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.8	Swap	0.02		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.8	Swap	0.07		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.8	Swap	0.15		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.8	Invertion	0.02		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.8	Invertion	0.07		63.2	2
+200	500	Tournament(2)	Cycle Crossover	0.8	Invertion	0.15		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.8	Scramble	0.02		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.8	Scramble	0.07		63.2	1
+200	500	Tournament(2)	Cycle Crossover	0.8	Scramble	0.15		63.2	1
+200	500	Tournament(2)	Order Crossover	0.4	Insert	0.02		63.2	1
+200	500	Tournament(2)	Order Crossover	0.4	Insert	0.07		63.2	1
+200	500	Tournament(2)	Order Crossover	0.4	Insert	0.15		63.2	1
+200	500	Tournament(2)	Order Crossover	0.4	Swap	0.02		63.2	1
+200	500	Tournament(2)	Order Crossover	0.4	Swap	0.07		63.2	1
+200	500	Tournament(2)	Order Crossover	0.4	Swap	0.15		63.2	1
+200	500	Tournament(2)	Order Crossover	0.4	Invertion	0.02		63.2	1
+200	500	Tournament(2)	Order Crossover	0.4	Invertion	0.07		63.2	2
+200	500	Tournament(2)	Order Crossover	0.4	Invertion	0.15		63.2	1
+200	500	Tournament(2)	Order Crossover	0.4	Scramble	0.02		63.2	2
+200	500	Tournament(2)	Order Crossover	0.4	Scramble	0.07		63.2	2
+200	500	Tournament(2)	Order Crossover	0.4	Scramble	0.15		63.2	1
+200	500	Tournament(2)	Order Crossover	0.6	Insert	0.02		63.2	2
+200	500	Tournament(2)	Order Crossover	0.6	Insert	0.07		63.2	1
+200	500	Tournament(2)	Order Crossover	0.6	Insert	0.15		63.2	1
+200	500	Tournament(2)	Order Crossover	0.6	Swap	0.02		63.2	1
+200	500	Tournament(2)	Order Crossover	0.6	Swap	0.07		63.2	1
+200	500	Tournament(2)	Order Crossover	0.6	Swap	0.15		63.2	1
+200	500	Tournament(2)	Order Crossover	0.6	Invertion	0.02		63.2	1
+200	500	Tournament(2)	Order Crossover	0.6	Invertion	0.07		63.2	1
+200	500	Tournament(2)	Order Crossover	0.6	Invertion	0.15		63.2	1
+200	500	Tournament(2)	Order Crossover	0.6	Scramble	0.02		63.2	1
+200	500	Tournament(2)	Order Crossover	0.6	Scramble	0.07		63.2	1
+200	500	Tournament(2)	Order Crossover	0.6	Scramble	0.15		63.2	1
+200	500	Tournament(2)	Order Crossover	0.8	Insert	0.02		63.2	1
+200	500	Tournament(2)	Order Crossover	0.8	Insert	0.07		63.2	1
+200	500	Tournament(2)	Order Crossover	0.8	Insert	0.15		63.2	1
+200	500	Tournament(2)	Order Crossover	0.8	Swap	0.02		63.2	1
+200	500	Tournament(2)	Order Crossover	0.8	Swap	0.07		63.2	1
+200	500	Tournament(2)	Order Crossover	0.8	Swap	0.15		63.2	1
+200	500	Tournament(2)	Order Crossover	0.8	Invertion	0.02		63.2	1
+200	500	Tournament(2)	Order Crossover	0.8	Invertion	0.07		63.2	1
+200	500	Tournament(2)	Order Crossover	0.8	Invertion	0.15		63.2	1
+200	500	Tournament(2)	Order Crossover	0.8	Scramble	0.02		63.2	1
+200	500	Tournament(2)	Order Crossover	0.8	Scramble	0.07		63.2	1
+200	500	Tournament(2)	Order Crossover	0.8	Scramble	0.15		63.2	1
+200	500	Tournament(4)	PMX	0.4	Insert	0.02		63.2	1
+200	500	Tournament(4)	PMX	0.4	Insert	0.07		63.2	2
+200	500	Tournament(4)	PMX	0.4	Insert	0.15		63.2	1
+200	500	Tournament(4)	PMX	0.4	Swap	0.02		63.2	1
+200	500	Tournament(4)	PMX	0.4	Swap	0.07		63.2	1
+200	500	Tournament(4)	PMX	0.4	Swap	0.15		63.2	1
+200	500	Tournament(4)	PMX	0.4	Invertion	0.02		63.2	2
+200	500	Tournament(4)	PMX	0.4	Invertion	0.07		63.2	1
+200	500	Tournament(4)	PMX	0.4	Invertion	0.15		63.2	1
+200	500	Tournament(4)	PMX	0.4	Scramble	0.02		63.2	2
+200	500	Tournament(4)	PMX	0.4	Scramble	0.07		63.2	1
+200	500	Tournament(4)	PMX	0.4	Scramble	0.15		63.2	1
+200	500	Tournament(4)	PMX	0.6	Insert	0.02		63.2	1
+200	500	Tournament(4)	PMX	0.6	Insert	0.07		63.2	1
+200	500	Tournament(4)	PMX	0.6	Insert	0.15		63.2	1
+200	500	Tournament(4)	PMX	0.6	Swap	0.02		63.2	1
+200	500	Tournament(4)	PMX	0.6	Swap	0.07		63.2	2
+200	500	Tournament(4)	PMX	0.6	Swap	0.15		63.2	1
+200	500	Tournament(4)	PMX	0.6	Invertion	0.02		63.2	1
+200	500	Tournament(4)	PMX	0.6	Invertion	0.07		63.2	1
+200	500	Tournament(4)	PMX	0.6	Invertion	0.15		63.2	1
+200	500	Tournament(4)	PMX	0.6	Scramble	0.02		63.2	1
+200	500	Tournament(4)	PMX	0.6	Scramble	0.07		63.2	1
+200	500	Tournament(4)	PMX	0.6	Scramble	0.15		63.2	1
+200	500	Tournament(4)	PMX	0.8	Insert	0.02		63.2	1
+200	500	Tournament(4)	PMX	0.8	Insert	0.07		63.2	1
+200	500	Tournament(4)	PMX	0.8	Insert	0.15		63.2	1
+200	500	Tournament(4)	PMX	0.8	Swap	0.02		63.2	1
+200	500	Tournament(4)	PMX	0.8	Swap	0.07		63.2	1
+200	500	Tournament(4)	PMX	0.8	Swap	0.15		63.2	1
+200	500	Tournament(4)	PMX	0.8	Invertion	0.02		63.2	1
+200	500	Tournament(4)	PMX	0.8	Invertion	0.07		63.2	1
+200	500	Tournament(4)	PMX	0.8	Invertion	0.15		63.2	1
+200	500	Tournament(4)	PMX	0.8	Scramble	0.02		63.2	1
+200	500	Tournament(4)	PMX	0.8	Scramble	0.07		63.2	1
+200	500	Tournament(4)	PMX	0.8	Scramble	0.15		63.2	1
+200	500	Tournament(4)	Cycle Crossover	0.4	Insert	0.02		63.2	2
+200	500	Tournament(4)	Cycle Crossover	0.4	Insert	0.07		63.2	1
+200	500	Tournament(4)	Cycle Crossover	0.4	Insert	0.15		63.2	1
+200	500	Tournament(4)	Cycle Crossover	0.4	Swap	0.02		63.2	5
+200	500	Tournament(4)	Cycle Crossover	0.4	Swap	0.07		63.2	1
+200	500	Tournament(4)	Cycle Crossover	0.4	Swap	0.15		63.2	1
+200	500	Tournament(4)	Cycle Crossover	0.4	Invertion	0.02		63.2	3
+200	500	Tournament(4)	Cycle Crossover	0.4	Invertion	0.07		63.2	2
+200	500	Tournament(4)	Cycle Crossover	0.4	Invertion	0.15		63.2	1
+200	500	Tournament(4)	Cycle Crossover	0.4	Scramble	0.02		63.2	3
+200	500	Tournament(4)	Cycle Crossover	0.4	Scramble	0.07		63.2	2
+200	500	Tournament(4)	Cycle Crossover	0.4	Scramble	0.15		63.2	1
+200	500	Tournament(4)	Cycle Crossover	0.6	Insert	0.02		63.2	3
+200	500	Tournament(4)	Cycle Crossover	0.6	Insert	0.07		63.2	2
+200	500	Tournament(4)	Cycle Crossover	0.6	Insert	0.15		63.2	2
+200	500	Tournament(4)	Cycle Crossover	0.6	Swap	0.02		63.2	2
+200	500	Tournament(4)	Cycle Crossover	0.6	Swap	0.07		63.2	2
+200	500	Tournament(4)	Cycle Crossover	0.6	Swap	0.15		63.2	1
+200	500	Tournament(4)	Cycle Crossover	0.6	Invertion	0.02		63.2	3
+200	500	Tournament(4)	Cycle Crossover	0.6	Invertion	0.07		63.2	2
+200	500	Tournament(4)	Cycle Crossover	0.6	Invertion	0.15		63.2	1
+200	500	Tournament(4)	Cycle Crossover	0.6	Scramble	0.02		63.2	3
+200	500	Tournament(4)	Cycle Crossover	0.6	Scramble	0.07		63.2	1
+200	500	Tournament(4)	Cycle Crossover	0.6	Scramble	0.15		63.2	1
+200	500	Tournament(4)	Cycle Crossover	0.8	Insert	0.02		63.2	3
+200	500	Tournament(4)	Cycle Crossover	0.8	Insert	0.07		63.2	1
+200	500	Tournament(4)	Cycle Crossover	0.8	Insert	0.15		63.2	2
+200	500	Tournament(4)	Cycle Crossover	0.8	Swap	0.02		63.2	2
+200	500	Tournament(4)	Cycle Crossover	0.8	Swap	0.07		63.2	2
+200	500	Tournament(4)	Cycle Crossover	0.8	Swap	0.15		63.2	2
+200	500	Tournament(4)	Cycle Crossover	0.8	Invertion	0.02		63.2	2
+200	500	Tournament(4)	Cycle Crossover	0.8	Invertion	0.07		63.2	2
+200	500	Tournament(4)	Cycle Crossover	0.8	Invertion	0.15		63.2	1
+200	500	Tournament(4)	Cycle Crossover	0.8	Scramble	0.02		63.2	2
+200	500	Tournament(4)	Cycle Crossover	0.8	Scramble	0.07		63.2	1
+200	500	Tournament(4)	Cycle Crossover	0.8	Scramble	0.15		63.2	1
+200	500	Tournament(4)	Order Crossover	0.4	Insert	0.02		63.2	1
+200	500	Tournament(4)	Order Crossover	0.4	Insert	0.07		63.2	1
+200	500	Tournament(4)	Order Crossover	0.4	Insert	0.15		63.2	1
+200	500	Tournament(4)	Order Crossover	0.4	Swap	0.02		63.2	1
+200	500	Tournament(4)	Order Crossover	0.4	Swap	0.07		63.2	1
+200	500	Tournament(4)	Order Crossover	0.4	Swap	0.15		63.2	1
+200	500	Tournament(4)	Order Crossover	0.4	Invertion	0.02		63.2	1
+200	500	Tournament(4)	Order Crossover	0.4	Invertion	0.07		63.2	1
+200	500	Tournament(4)	Order Crossover	0.4	Invertion	0.15		63.2	1
+200	500	Tournament(4)	Order Crossover	0.4	Scramble	0.02		63.2	2
+200	500	Tournament(4)	Order Crossover	0.4	Scramble	0.07		63.2	1
+200	500	Tournament(4)	Order Crossover	0.4	Scramble	0.15		63.2	1
+200	500	Tournament(4)	Order Crossover	0.6	Insert	0.02		63.2	2
+200	500	Tournament(4)	Order Crossover	0.6	Insert	0.07		63.2	2
+200	500	Tournament(4)	Order Crossover	0.6	Insert	0.15		63.2	1
+200	500	Tournament(4)	Order Crossover	0.6	Swap	0.02		63.2	2
+200	500	Tournament(4)	Order Crossover	0.6	Swap	0.07		63.2	1
+200	500	Tournament(4)	Order Crossover	0.6	Swap	0.15		63.2	1
+200	500	Tournament(4)	Order Crossover	0.6	Invertion	0.02		63.2	2
+200	500	Tournament(4)	Order Crossover	0.6	Invertion	0.07		63.2	1
+200	500	Tournament(4)	Order Crossover	0.6	Invertion	0.15		63.2	2
+200	500	Tournament(4)	Order Crossover	0.6	Scramble	0.02		63.2	3
+200	500	Tournament(4)	Order Crossover	0.6	Scramble	0.07		63.2	2
+200	500	Tournament(4)	Order Crossover	0.6	Scramble	0.15		63.2	1
+200	500	Tournament(4)	Order Crossover	0.8	Insert	0.02		63.2	1
+200	500	Tournament(4)	Order Crossover	0.8	Insert	0.07		63.2	2
+200	500	Tournament(4)	Order Crossover	0.8	Insert	0.15		63.2	2
+200	500	Tournament(4)	Order Crossover	0.8	Swap	0.02		63.2	1
+200	500	Tournament(4)	Order Crossover	0.8	Swap	0.07		63.2	1
+200	500	Tournament(4)	Order Crossover	0.8	Swap	0.15		63.2	3
+200	500	Tournament(4)	Order Crossover	0.8	Invertion	0.02		63.2	1
+200	500	Tournament(4)	Order Crossover	0.8	Invertion	0.07		63.2	2
+200	500	Tournament(4)	Order Crossover	0.8	Invertion	0.15		63.2	1
+200	500	Tournament(4)	Order Crossover	0.8	Scramble	0.02		63.2	1
+200	500	Tournament(4)	Order Crossover	0.8	Scramble	0.07		63.2	1
+200	500	Tournament(4)	Order Crossover	0.8	Scramble	0.15		63.2	1
+200	500	Tournament(6)	PMX	0.4	Insert	0.02		63.2	2
+200	500	Tournament(6)	PMX	0.4	Insert	0.07		63.2	1
+200	500	Tournament(6)	PMX	0.4	Insert	0.15		63.2	2
+200	500	Tournament(6)	PMX	0.4	Swap	0.02		63.2	2
+200	500	Tournament(6)	PMX	0.4	Swap	0.07		63.2	1
+200	500	Tournament(6)	PMX	0.4	Swap	0.15		63.2	2
+200	500	Tournament(6)	PMX	0.4	Invertion	0.02		63.2	2
+200	500	Tournament(6)	PMX	0.4	Invertion	0.07		63.2	1
+200	500	Tournament(6)	PMX	0.4	Invertion	0.15		63.2	1
+200	500	Tournament(6)	PMX	0.4	Scramble	0.02		63.2	1
+200	500	Tournament(6)	PMX	0.4	Scramble	0.07		63.2	2
+200	500	Tournament(6)	PMX	0.4	Scramble	0.15		63.2	1
+200	500	Tournament(6)	PMX	0.6	Insert	0.02		63.2	2
+200	500	Tournament(6)	PMX	0.6	Insert	0.07		63.2	1
+200	500	Tournament(6)	PMX	0.6	Insert	0.15		63.2	2
+200	500	Tournament(6)	PMX	0.6	Swap	0.02		63.2	2
+200	500	Tournament(6)	PMX	0.6	Swap	0.07		63.2	1
+200	500	Tournament(6)	PMX	0.6	Swap	0.15		63.2	1
+200	500	Tournament(6)	PMX	0.6	Invertion	0.02		63.2	2
+200	500	Tournament(6)	PMX	0.6	Invertion	0.07		63.2	1
+200	500	Tournament(6)	PMX	0.6	Invertion	0.15		63.2	1
+200	500	Tournament(6)	PMX	0.6	Scramble	0.02		63.2	2
+200	500	Tournament(6)	PMX	0.6	Scramble	0.07		63.2	1
+200	500	Tournament(6)	PMX	0.6	Scramble	0.15		63.2	1
+200	500	Tournament(6)	PMX	0.8	Insert	0.02		63.2	1
+200	500	Tournament(6)	PMX	0.8	Insert	0.07		63.2	1
+200	500	Tournament(6)	PMX	0.8	Insert	0.15		63.2	1
+200	500	Tournament(6)	PMX	0.8	Swap	0.02		63.2	1
+200	500	Tournament(6)	PMX	0.8	Swap	0.07		63.2	1
+200	500	Tournament(6)	PMX	0.8	Swap	0.15		63.2	1
+200	500	Tournament(6)	PMX	0.8	Invertion	0.02		63.2	1
+200	500	Tournament(6)	PMX	0.8	Invertion	0.07		63.2	1
+200	500	Tournament(6)	PMX	0.8	Invertion	0.15		63.2	1
+200	500	Tournament(6)	PMX	0.8	Scramble	0.02		63.2	1
+200	500	Tournament(6)	PMX	0.8	Scramble	0.07		63.2	2
+200	500	Tournament(6)	PMX	0.8	Scramble	0.15		63.2	1
+200	500	Tournament(6)	Cycle Crossover	0.4	Insert	0.02		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.4	Insert	0.07		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.4	Insert	0.15		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.4	Swap	0.02		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.4	Swap	0.07		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.4	Swap	0.15		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.4	Invertion	0.02		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.4	Invertion	0.07		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.4	Invertion	0.15		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.4	Scramble	0.02		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.4	Scramble	0.07		63.2	1
+200	500	Tournament(6)	Cycle Crossover	0.4	Scramble	0.15		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.6	Insert	0.02		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.6	Insert	0.07		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.6	Insert	0.15		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.6	Swap	0.02		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.6	Swap	0.07		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.6	Swap	0.15		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.6	Invertion	0.02		63.2	3
+200	500	Tournament(6)	Cycle Crossover	0.6	Invertion	0.07		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.6	Invertion	0.15		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.6	Scramble	0.02		63.2	3
+200	500	Tournament(6)	Cycle Crossover	0.6	Scramble	0.07		63.2	1
+200	500	Tournament(6)	Cycle Crossover	0.6	Scramble	0.15		63.2	1
+200	500	Tournament(6)	Cycle Crossover	0.8	Insert	0.02		63.2	1
+200	500	Tournament(6)	Cycle Crossover	0.8	Insert	0.07		63.2	1
+200	500	Tournament(6)	Cycle Crossover	0.8	Insert	0.15		63.2	1
+200	500	Tournament(6)	Cycle Crossover	0.8	Swap	0.02		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.8	Swap	0.07		63.2	1
+200	500	Tournament(6)	Cycle Crossover	0.8	Swap	0.15		63.2	1
+200	500	Tournament(6)	Cycle Crossover	0.8	Invertion	0.02		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.8	Invertion	0.07		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.8	Invertion	0.15		63.2	2
+200	500	Tournament(6)	Cycle Crossover	0.8	Scramble	0.02		63.2	1
+200	500	Tournament(6)	Cycle Crossover	0.8	Scramble	0.07		63.2	1
+200	500	Tournament(6)	Cycle Crossover	0.8	Scramble	0.15		63.2	1
+200	500	Tournament(6)	Order Crossover	0.4	Insert	0.02		63.2	1
+200	500	Tournament(6)	Order Crossover	0.4	Insert	0.07		63.2	1
+200	500	Tournament(6)	Order Crossover	0.4	Insert	0.15		63.2	1
+200	500	Tournament(6)	Order Crossover	0.4	Swap	0.02		63.2	1
+200	500	Tournament(6)	Order Crossover	0.4	Swap	0.07		63.2	1
+200	500	Tournament(6)	Order Crossover	0.4	Swap	0.15		63.2	1
+200	500	Tournament(6)	Order Crossover	0.4	Invertion	0.02		63.2	1
+200	500	Tournament(6)	Order Crossover	0.4	Invertion	0.07		63.2	2
+200	500	Tournament(6)	Order Crossover	0.4	Invertion	0.15		63.2	1
+200	500	Tournament(6)	Order Crossover	0.4	Scramble	0.02		63.2	2
+200	500	Tournament(6)	Order Crossover	0.4	Scramble	0.07		63.2	1
+200	500	Tournament(6)	Order Crossover	0.4	Scramble	0.15		63.2	1
+200	500	Tournament(6)	Order Crossover	0.6	Insert	0.02		63.2	1
+200	500	Tournament(6)	Order Crossover	0.6	Insert	0.07		63.2	1
+200	500	Tournament(6)	Order Crossover	0.6	Insert	0.15		63.2	1
+200	500	Tournament(6)	Order Crossover	0.6	Swap	0.02		63.2	1
+200	500	Tournament(6)	Order Crossover	0.6	Swap	0.07		63.2	1
+200	500	Tournament(6)	Order Crossover	0.6	Swap	0.15		63.2	1
+200	500	Tournament(6)	Order Crossover	0.6	Invertion	0.02		63.2	1
+200	500	Tournament(6)	Order Crossover	0.6	Invertion	0.07		63.2	1
+200	500	Tournament(6)	Order Crossover	0.6	Invertion	0.15		63.2	1
+200	500	Tournament(6)	Order Crossover	0.6	Scramble	0.02		63.2	1
+200	500	Tournament(6)	Order Crossover	0.6	Scramble	0.07		63.2	1
+200	500	Tournament(6)	Order Crossover	0.6	Scramble	0.15		63.2	1
+200	500	Tournament(6)	Order Crossover	0.8	Insert	0.02		63.2	3
+200	500	Tournament(6)	Order Crossover	0.8	Insert	0.07		63.2	1
+200	500	Tournament(6)	Order Crossover	0.8	Insert	0.15		63.2	1
+200	500	Tournament(6)	Order Crossover	0.8	Swap	0.02		63.2	2
+200	500	Tournament(6)	Order Crossover	0.8	Swap	0.07		63.2	1
+200	500	Tournament(6)	Order Crossover	0.8	Swap	0.15		63.2	3
+200	500	Tournament(6)	Order Crossover	0.8	Invertion	0.02		63.2	2
+200	500	Tournament(6)	Order Crossover	0.8	Invertion	0.07		63.2	1
+200	500	Tournament(6)	Order Crossover	0.8	Invertion	0.15		63.2	1
+200	500	Tournament(6)	Order Crossover	0.8	Scramble	0.02		63.2	1
+200	500	Tournament(6)	Order Crossover	0.8	Scramble	0.07		63.2	2
+200	500	Tournament(6)	Order Crossover	0.8	Scramble	0.15		63.2	1
+200	500	Tournament(8)	PMX	0.4	Insert	0.02		63.2	2
+200	500	Tournament(8)	PMX	0.4	Insert	0.07		63.2	2
+200	500	Tournament(8)	PMX	0.4	Insert	0.15		63.2	2
+200	500	Tournament(8)	PMX	0.4	Swap	0.02		63.2	2
+200	500	Tournament(8)	PMX	0.4	Swap	0.07		63.2	2
+200	500	Tournament(8)	PMX	0.4	Swap	0.15		63.2	1
+200	500	Tournament(8)	PMX	0.4	Invertion	0.02		63.2	2
+200	500	Tournament(8)	PMX	0.4	Invertion	0.07		63.2	2
+200	500	Tournament(8)	PMX	0.4	Invertion	0.15		63.2	1
+200	500	Tournament(8)	PMX	0.4	Scramble	0.02		63.2	1
+200	500	Tournament(8)	PMX	0.4	Scramble	0.07		63.2	1
+200	500	Tournament(8)	PMX	0.4	Scramble	0.15		63.2	2
+200	500	Tournament(8)	PMX	0.6	Insert	0.02		63.2	2
+200	500	Tournament(8)	PMX	0.6	Insert	0.07		63.2	2
+200	500	Tournament(8)	PMX	0.6	Insert	0.15		63.2	1
+200	500	Tournament(8)	PMX	0.6	Swap	0.02		63.2	2
+200	500	Tournament(8)	PMX	0.6	Swap	0.07		63.2	1
+200	500	Tournament(8)	PMX	0.6	Swap	0.15		63.2	1
+200	500	Tournament(8)	PMX	0.6	Invertion	0.02		63.2	2
+200	500	Tournament(8)	PMX	0.6	Invertion	0.07		63.2	2
+200	500	Tournament(8)	PMX	0.6	Invertion	0.15		63.2	1
+200	500	Tournament(8)	PMX	0.6	Scramble	0.02		63.2	1
+200	500	Tournament(8)	PMX	0.6	Scramble	0.07		63.2	1
+200	500	Tournament(8)	PMX	0.6	Scramble	0.15		63.2	2
+200	500	Tournament(8)	PMX	0.8	Insert	0.02		63.2	1
+200	500	Tournament(8)	PMX	0.8	Insert	0.07		63.2	1
+200	500	Tournament(8)	PMX	0.8	Insert	0.15		63.2	1
+200	500	Tournament(8)	PMX	0.8	Swap	0.02		63.2	1
+200	500	Tournament(8)	PMX	0.8	Swap	0.07		63.2	1
+200	500	Tournament(8)	PMX	0.8	Swap	0.15		63.2	2
+200	500	Tournament(8)	PMX	0.8	Invertion	0.02		63.2	1
+200	500	Tournament(8)	PMX	0.8	Invertion	0.07		63.2	1
+200	500	Tournament(8)	PMX	0.8	Invertion	0.15		63.2	2
+200	500	Tournament(8)	PMX	0.8	Scramble	0.02		63.2	1
+200	500	Tournament(8)	PMX	0.8	Scramble	0.07		63.2	1
+200	500	Tournament(8)	PMX	0.8	Scramble	0.15		63.2	1
+200	500	Tournament(8)	Cycle Crossover	0.4	Insert	0.02		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.4	Insert	0.07		63.2	3
+200	500	Tournament(8)	Cycle Crossover	0.4	Insert	0.15		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.4	Swap	0.02		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.4	Swap	0.07		63.2	3
+200	500	Tournament(8)	Cycle Crossover	0.4	Swap	0.15		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.4	Invertion	0.02		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.4	Invertion	0.07		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.4	Invertion	0.15		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.4	Scramble	0.02		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.4	Scramble	0.07		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.4	Scramble	0.15		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.6	Insert	0.02		63.2	3
+200	500	Tournament(8)	Cycle Crossover	0.6	Insert	0.07		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.6	Insert	0.15		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.6	Swap	0.02		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.6	Swap	0.07		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.6	Swap	0.15		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.6	Invertion	0.02		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.6	Invertion	0.07		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.6	Invertion	0.15		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.6	Scramble	0.02		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.6	Scramble	0.07		63.2	1
+200	500	Tournament(8)	Cycle Crossover	0.6	Scramble	0.15		63.2	1
+200	500	Tournament(8)	Cycle Crossover	0.8	Insert	0.02		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.8	Insert	0.07		63.2	1
+200	500	Tournament(8)	Cycle Crossover	0.8	Insert	0.15		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.8	Swap	0.02		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.8	Swap	0.07		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.8	Swap	0.15		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.8	Invertion	0.02		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.8	Invertion	0.07		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.8	Invertion	0.15		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.8	Scramble	0.02		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.8	Scramble	0.07		63.2	2
+200	500	Tournament(8)	Cycle Crossover	0.8	Scramble	0.15		63.2	2
+200	500	Tournament(8)	Order Crossover	0.4	Insert	0.02		63.2	2
+200	500	Tournament(8)	Order Crossover	0.4	Insert	0.07		63.2	2
+200	500	Tournament(8)	Order Crossover	0.4	Insert	0.15		63.2	1
+200	500	Tournament(8)	Order Crossover	0.4	Swap	0.02		63.2	2
+200	500	Tournament(8)	Order Crossover	0.4	Swap	0.07		63.2	2
+200	500	Tournament(8)	Order Crossover	0.4	Swap	0.15		63.2	1
+200	500	Tournament(8)	Order Crossover	0.4	Invertion	0.02		63.2	2
+200	500	Tournament(8)	Order Crossover	0.4	Invertion	0.07		63.2	2
+200	500	Tournament(8)	Order Crossover	0.4	Invertion	0.15		63.2	1
+200	500	Tournament(8)	Order Crossover	0.4	Scramble	0.02		63.2	2
+200	500	Tournament(8)	Order Crossover	0.4	Scramble	0.07		63.2	1
+200	500	Tournament(8)	Order Crossover	0.4	Scramble	0.15		63.2	2
+200	500	Tournament(8)	Order Crossover	0.6	Insert	0.02		63.2	1
+200	500	Tournament(8)	Order Crossover	0.6	Insert	0.07		63.2	2
+200	500	Tournament(8)	Order Crossover	0.6	Insert	0.15		63.2	2
+200	500	Tournament(8)	Order Crossover	0.6	Swap	0.02		63.2	1
+200	500	Tournament(8)	Order Crossover	0.6	Swap	0.07		63.2	2
+200	500	Tournament(8)	Order Crossover	0.6	Swap	0.15		63.2	1
+200	500	Tournament(8)	Order Crossover	0.6	Invertion	0.02		63.2	1
+200	500	Tournament(8)	Order Crossover	0.6	Invertion	0.07		63.2	2
+200	500	Tournament(8)	Order Crossover	0.6	Invertion	0.15		63.2	2
+200	500	Tournament(8)	Order Crossover	0.6	Scramble	0.02		63.2	1
+200	500	Tournament(8)	Order Crossover	0.6	Scramble	0.07		63.2	2
+200	500	Tournament(8)	Order Crossover	0.6	Scramble	0.15		63.2	1
+200	500	Tournament(8)	Order Crossover	0.8	Insert	0.02		63.2	1
+200	500	Tournament(8)	Order Crossover	0.8	Insert	0.07		63.2	2
+200	500	Tournament(8)	Order Crossover	0.8	Insert	0.15		63.2	2
+200	500	Tournament(8)	Order Crossover	0.8	Swap	0.02		63.2	1
+200	500	Tournament(8)	Order Crossover	0.8	Swap	0.07		63.2	2
+200	500	Tournament(8)	Order Crossover	0.8	Swap	0.15		63.2	1
+200	500	Tournament(8)	Order Crossover	0.8	Invertion	0.02		63.2	1
+200	500	Tournament(8)	Order Crossover	0.8	Invertion	0.07		63.2	3
+200	500	Tournament(8)	Order Crossover	0.8	Invertion	0.15		63.2	1
+200	500	Tournament(8)	Order Crossover	0.8	Scramble	0.02		63.2	1
+200	500	Tournament(8)	Order Crossover	0.8	Scramble	0.07		63.2	1
+200	500	Tournament(8)	Order Crossover	0.8	Scramble	0.15		63.2	1
