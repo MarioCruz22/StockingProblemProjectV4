@@ -59,7 +59,25 @@ Max generations:1000
 Selection:Tournament(2)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(2)
+Recombination:PMX
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(2)
+Recombination:PMX
+Recombination prob.: 0.4
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 54.2
 
@@ -68,24 +86,6 @@ Max generations:1000
 Selection:Tournament(2)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 54.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(2)
-Recombination:PMX
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 54.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(2)
-Recombination:PMX
-Recombination prob.: 0.4
 Mutation:Scramble
 Mutation prob.: 0.02
 fitness: 45.6
@@ -167,8 +167,17 @@ Max generations:1000
 Selection:Tournament(2)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(2)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 55.2
 
 Population size:100
@@ -176,18 +185,9 @@ Max generations:1000
 Selection:Tournament(2)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(2)
-Recombination:PMX
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+fitness: 54.2
 
 Population size:100
 Max generations:1000
@@ -275,8 +275,8 @@ Max generations:1000
 Selection:Tournament(2)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 55.2
 
 Population size:100
@@ -284,18 +284,18 @@ Max generations:1000
 Selection:Tournament(2)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 54.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(2)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 55.2
+fitness: 54.2
 
 Population size:100
 Max generations:1000
@@ -383,27 +383,27 @@ Max generations:1000
 Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 56.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 45.6
+fitness: 55.2
 
 Population size:100
 Max generations:1000
@@ -491,8 +491,8 @@ Max generations:1000
 Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 55.2
 
 Population size:100
@@ -500,18 +500,18 @@ Max generations:1000
 Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 45.6
 
 Population size:100
 Max generations:1000
 Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 55.2
+fitness: 45.6
 
 Population size:100
 Max generations:1000
@@ -599,8 +599,8 @@ Max generations:1000
 Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 55.2
 
 Population size:100
@@ -608,16 +608,16 @@ Max generations:1000
 Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 45.6
 
 Population size:100
 Max generations:1000
 Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 55.2
 
@@ -707,25 +707,25 @@ Max generations:1000
 Selection:Tournament(2)
 Recombination:Order Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(2)
 Recombination:Order Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(2)
 Recombination:Order Crossover
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -815,25 +815,25 @@ Max generations:1000
 Selection:Tournament(2)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 56.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(2)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(2)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -923,8 +923,8 @@ Max generations:1000
 Selection:Tournament(2)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 45.6
 
 Population size:100
@@ -932,8 +932,8 @@ Max generations:1000
 Selection:Tournament(2)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 45.6
 
 Population size:100
@@ -941,7 +941,7 @@ Max generations:1000
 Selection:Tournament(2)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -1031,25 +1031,25 @@ Max generations:1000
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -1139,8 +1139,8 @@ Max generations:1000
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 55.2
 
 Population size:100
@@ -1148,8 +1148,8 @@ Max generations:1000
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 55.2
 
 Population size:100
@@ -1157,7 +1157,7 @@ Max generations:1000
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 55.2
 
@@ -1232,15 +1232,6 @@ Recombination prob.: 0.8
 Mutation:Swap
 Mutation prob.: 0.07
 fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
 
 Population size:100
 Max generations:1000
@@ -1256,34 +1247,16 @@ Max generations:1000
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Scramble
+Mutation:Invertion
 Mutation prob.: 0.02
-fitness: 45.6
+fitness: 55.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Scramble
+Mutation:Invertion
 Mutation prob.: 0.07
 fitness: 45.6
 
@@ -1292,311 +1265,14 @@ Max generations:1000
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Scramble
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Insert
-Mutation prob.: 0.02
-fitness: 56.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Insert
-Mutation prob.: 0.07
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Insert
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 55.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.02
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Scramble
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Scramble
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Scramble
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Insert
-Mutation prob.: 0.02
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Insert
-Mutation prob.: 0.07
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Insert
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.02
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Scramble
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Scramble
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Scramble
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Insert
-Mutation prob.: 0.02
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Insert
-Mutation prob.: 0.07
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Insert
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.02
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
+Recombination:PMX
 Recombination prob.: 0.8
 Mutation:Scramble
 Mutation prob.: 0.02
@@ -1605,242 +1281,26 @@ fitness: 45.6
 Population size:100
 Max generations:1000
 Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Scramble
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Scramble
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
 Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Scramble
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Scramble
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
 Recombination prob.: 0.4
-Mutation:Insert
-Mutation prob.: 0.02
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Insert
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Insert
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.07
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Scramble
-Mutation prob.: 0.02
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Scramble
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Scramble
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Insert
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Insert
-Mutation prob.: 0.07
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Insert
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.07
-fitness: 54.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Scramble
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Scramble
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Scramble
-Mutation prob.: 0.15
-fitness: 54.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.8
 Mutation:Insert
 Mutation prob.: 0.02
 fitness: 56.2
@@ -1848,6 +1308,546 @@ fitness: 56.2
 Population size:100
 Max generations:1000
 Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Insert
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Insert
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Swap
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Swap
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Swap
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 56.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.15
+fitness: 56.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Swap
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Swap
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Swap
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Scramble
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Scramble
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Scramble
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Swap
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Swap
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Swap
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Invertion
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Scramble
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Scramble
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Scramble
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Insert
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Insert
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Insert
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Swap
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Swap
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Swap
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Swap
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Swap
+Mutation prob.: 0.07
+fitness: 54.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Swap
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Scramble
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Scramble
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Scramble
+Mutation prob.: 0.15
+fitness: 54.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.02
+fitness: 56.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(4)
 Recombination:Order Crossover
 Recombination prob.: 0.8
 Mutation:Insert
@@ -1895,8 +1895,8 @@ Max generations:1000
 Selection:Tournament(4)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 55.2
 
 Population size:100
@@ -1904,16 +1904,16 @@ Max generations:1000
 Selection:Tournament(4)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 45.6
 
 Population size:100
 Max generations:1000
 Selection:Tournament(4)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 55.2
 
@@ -2003,8 +2003,8 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 55.2
 
 Population size:100
@@ -2012,8 +2012,8 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 55.2
 
 Population size:100
@@ -2021,7 +2021,7 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 55.2
 
@@ -2111,27 +2111,27 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 54.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 56.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 45.6
+fitness: 56.2
 
 Population size:100
 Max generations:1000
@@ -2219,8 +2219,17 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 54.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 55.2
 
 Population size:100
@@ -2228,18 +2237,9 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(6)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+fitness: 56.2
 
 Population size:100
 Max generations:1000
@@ -2248,15 +2248,6 @@ Recombination:PMX
 Recombination prob.: 0.8
 Mutation:Scramble
 Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(6)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Scramble
-Mutation prob.: 0.07
 fitness: 45.6
 
 Population size:100
@@ -2265,6 +2256,15 @@ Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.8
 Mutation:Scramble
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Scramble
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -2327,8 +2327,8 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:Cycle Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 45.6
 
 Population size:100
@@ -2336,8 +2336,8 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:Cycle Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 45.6
 
 Population size:100
@@ -2345,7 +2345,7 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:Cycle Crossover
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -2435,8 +2435,17 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 45.6
 
 Population size:100
@@ -2444,16 +2453,7 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -2543,8 +2543,17 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 45.6
 
 Population size:100
@@ -2552,18 +2561,9 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+fitness: 55.2
 
 Population size:100
 Max generations:1000
@@ -2651,8 +2651,17 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:Order Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 54.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 55.2
 
 Population size:100
@@ -2660,18 +2669,9 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:Order Crossover
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+fitness: 54.2
 
 Population size:100
 Max generations:1000
@@ -2759,25 +2759,25 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 54.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(6)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 56.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(6)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 55.2
 
@@ -2867,27 +2867,27 @@ Max generations:1000
 Selection:Tournament(6)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(6)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(6)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 45.6
+fitness: 54.2
 
 Population size:100
 Max generations:1000
@@ -2960,15 +2960,6 @@ Recombination prob.: 0.4
 Mutation:Swap
 Mutation prob.: 0.07
 fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 56.2
 
 Population size:100
 Max generations:1000
@@ -2984,7 +2975,25 @@ Max generations:1000
 Selection:Tournament(8)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 56.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.4
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 56.2
 
@@ -2993,223 +3002,214 @@ Max generations:1000
 Selection:Tournament(8)
 Recombination:PMX
 Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Swap
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Swap
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.6
 Mutation:Swap
 Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Scramble
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Scramble
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Scramble
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Swap
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Swap
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Swap
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 56.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(8)
 Recombination:PMX
-Recombination prob.: 0.4
-Mutation:Scramble
-Mutation prob.: 0.02
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.4
-Mutation:Scramble
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.4
-Mutation:Scramble
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.6
-Mutation:Insert
-Mutation prob.: 0.02
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.6
-Mutation:Insert
-Mutation prob.: 0.07
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.6
-Mutation:Insert
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.6
-Mutation:Scramble
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.6
-Mutation:Scramble
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.6
-Mutation:Scramble
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Insert
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Insert
-Mutation prob.: 0.07
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Insert
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -3299,34 +3299,7 @@ Max generations:1000
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Scramble
+Mutation:Invertion
 Mutation prob.: 0.02
 fitness: 55.2
 
@@ -3335,6 +3308,33 @@ Max generations:1000
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.15
+fitness: 56.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
 Mutation:Scramble
 Mutation prob.: 0.07
 fitness: 45.6
@@ -3407,8 +3407,8 @@ Max generations:1000
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 55.2
 
 Population size:100
@@ -3416,8 +3416,8 @@ Max generations:1000
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 55.2
 
 Population size:100
@@ -3425,7 +3425,7 @@ Max generations:1000
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 55.2
 
@@ -3515,27 +3515,27 @@ Max generations:1000
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 45.6
+fitness: 55.2
 
 Population size:100
 Max generations:1000
@@ -3623,34 +3623,7 @@ Max generations:1000
 Selection:Tournament(8)
 Recombination:Order Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Scramble
+Mutation:Invertion
 Mutation prob.: 0.02
 fitness: 55.2
 
@@ -3659,6 +3632,33 @@ Max generations:1000
 Selection:Tournament(8)
 Recombination:Order Crossover
 Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 54.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:Order Crossover
+Recombination prob.: 0.4
 Mutation:Scramble
 Mutation prob.: 0.07
 fitness: 45.6
@@ -3731,8 +3731,17 @@ Max generations:1000
 Selection:Tournament(8)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:100
+Max generations:1000
+Selection:Tournament(8)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 55.2
 
 Population size:100
@@ -3740,18 +3749,9 @@ Max generations:1000
 Selection:Tournament(8)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:100
-Max generations:1000
-Selection:Tournament(8)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+fitness: 45.6
 
 Population size:100
 Max generations:1000
@@ -3839,27 +3839,27 @@ Max generations:1000
 Selection:Tournament(8)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(8)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
 
 Population size:100
 Max generations:1000
 Selection:Tournament(8)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 45.6
+fitness: 54.2
 
 Population size:100
 Max generations:1000
@@ -3947,8 +3947,8 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 55.2
 
 Population size:200
@@ -3956,16 +3956,16 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 45.6
 
 Population size:200
 Max generations:500
 Selection:Tournament(2)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 55.2
 
@@ -4055,8 +4055,8 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 45.6
 
 Population size:200
@@ -4064,8 +4064,8 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 45.6
 
 Population size:200
@@ -4073,9 +4073,9 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 45.6
+fitness: 54.2
 
 Population size:200
 Max generations:500
@@ -4163,8 +4163,8 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 45.6
 
 Population size:200
@@ -4172,16 +4172,16 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 54.2
 
 Population size:200
 Max generations:500
 Selection:Tournament(2)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -4271,8 +4271,17 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(2)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 55.2
 
 Population size:200
@@ -4280,16 +4289,7 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(2)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 55.2
 
@@ -4379,8 +4379,8 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 55.2
 
 Population size:200
@@ -4388,16 +4388,16 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 45.6
 
 Population size:200
 Max generations:500
 Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 55.2
 
@@ -4487,35 +4487,17 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(2)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(2)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(2)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Scramble
+Mutation:Invertion
 Mutation prob.: 0.02
+fitness: 54.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(2)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 55.2
 
 Population size:200
@@ -4523,8 +4505,8 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
-Mutation:Scramble
-Mutation prob.: 0.07
+Mutation:Invertion
+Mutation prob.: 0.15
 fitness: 45.6
 
 Population size:200
@@ -4533,6 +4515,24 @@ Selection:Tournament(2)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
 Mutation:Scramble
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(2)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Scramble
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(2)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Scramble
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -4595,8 +4595,17 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:Order Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 45.6
 
 Population size:200
@@ -4604,18 +4613,9 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:Order Crossover
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(2)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+fitness: 54.2
 
 Population size:200
 Max generations:500
@@ -4703,25 +4703,25 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 54.2
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 45.6
 
 Population size:200
 Max generations:500
 Selection:Tournament(2)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 54.2
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
 
 Population size:200
 Max generations:500
 Selection:Tournament(2)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 54.2
 
@@ -4796,15 +4796,6 @@ Recombination prob.: 0.8
 Mutation:Swap
 Mutation prob.: 0.07
 fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(2)
-Recombination:Order Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 54.2
 
 Population size:200
 Max generations:500
@@ -4820,7 +4811,25 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.8
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.8
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 54.2
 
@@ -4829,15 +4838,6 @@ Max generations:500
 Selection:Tournament(2)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 54.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(2)
-Recombination:Order Crossover
-Recombination prob.: 0.8
 Mutation:Scramble
 Mutation prob.: 0.02
 fitness: 45.6
@@ -4919,7 +4919,25 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.4
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 55.2
 
@@ -4928,24 +4946,6 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(4)
-Recombination:PMX
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(4)
-Recombination:PMX
-Recombination prob.: 0.4
 Mutation:Scramble
 Mutation prob.: 0.02
 fitness: 45.6
@@ -5027,8 +5027,8 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 45.6
 
 Population size:200
@@ -5036,16 +5036,16 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
 
 Population size:200
 Max generations:500
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -5135,27 +5135,27 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 45.6
 
 Population size:200
 Max generations:500
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 45.6
 
 Population size:200
 Max generations:500
 Selection:Tournament(4)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 55.2
+fitness: 45.6
 
 Population size:200
 Max generations:500
@@ -5243,8 +5243,8 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:Cycle Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 55.2
 
 Population size:200
@@ -5252,16 +5252,16 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:Cycle Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 45.6
 
 Population size:200
 Max generations:500
 Selection:Tournament(4)
 Recombination:Cycle Crossover
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 55.2
 
@@ -5351,8 +5351,8 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 55.2
 
 Population size:200
@@ -5360,8 +5360,8 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 55.2
 
 Population size:200
@@ -5369,7 +5369,7 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 55.2
 
@@ -5459,25 +5459,25 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
 
 Population size:200
 Max generations:500
 Selection:Tournament(4)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
 
 Population size:200
 Max generations:500
 Selection:Tournament(4)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -5567,8 +5567,8 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:Order Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 45.6
 
 Population size:200
@@ -5576,18 +5576,18 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:Order Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
 
 Population size:200
 Max generations:500
 Selection:Tournament(4)
 Recombination:Order Crossover
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 45.6
+fitness: 55.2
 
 Population size:200
 Max generations:500
@@ -5675,8 +5675,8 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 55.2
 
 Population size:200
@@ -5684,16 +5684,16 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 45.6
 
 Population size:200
 Max generations:500
 Selection:Tournament(4)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 55.2
 
@@ -5783,7 +5783,25 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.8
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 54.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(4)
+Recombination:Order Crossover
+Recombination prob.: 0.8
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 54.2
 
@@ -5792,24 +5810,6 @@ Max generations:500
 Selection:Tournament(4)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 54.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 54.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(4)
-Recombination:Order Crossover
-Recombination prob.: 0.8
 Mutation:Scramble
 Mutation prob.: 0.02
 fitness: 54.2
@@ -5891,8 +5891,8 @@ Max generations:500
 Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 45.6
 
 Population size:200
@@ -5900,8 +5900,8 @@ Max generations:500
 Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 45.6
 
 Population size:200
@@ -5909,7 +5909,7 @@ Max generations:500
 Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -5999,8 +5999,17 @@ Max generations:500
 Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 45.6
 
 Population size:200
@@ -6008,16 +6017,7 @@ Max generations:500
 Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:PMX
-Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -6091,15 +6091,6 @@ Recombination:PMX
 Recombination prob.: 0.8
 Mutation:Swap
 Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
 fitness: 45.6
 
 Population size:200
@@ -6116,34 +6107,16 @@ Max generations:500
 Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Scramble
+Mutation:Invertion
 Mutation prob.: 0.02
-fitness: 54.2
+fitness: 55.2
 
 Population size:200
 Max generations:500
 Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Scramble
+Mutation:Invertion
 Mutation prob.: 0.07
 fitness: 45.6
 
@@ -6152,528 +6125,15 @@ Max generations:500
 Selection:Tournament(6)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Scramble
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 45.6
 
 Population size:200
 Max generations:500
 Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Insert
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Insert
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Insert
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.07
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Scramble
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Scramble
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.4
-Mutation:Scramble
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Insert
-Mutation prob.: 0.02
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Insert
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Insert
-Mutation prob.: 0.15
-fitness: 54.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.02
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.07
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Scramble
-Mutation prob.: 0.02
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Scramble
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.6
-Mutation:Scramble
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
+Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Insert
-Mutation prob.: 0.02
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Insert
-Mutation prob.: 0.07
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Insert
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.02
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.07
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Scramble
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Scramble
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Cycle Crossover
-Recombination prob.: 0.8
-Mutation:Scramble
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Insert
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Insert
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Insert
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Scramble
-Mutation prob.: 0.02
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Scramble
-Mutation prob.: 0.07
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.4
-Mutation:Scramble
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Insert
-Mutation prob.: 0.02
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Insert
-Mutation prob.: 0.07
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Insert
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.02
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.07
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.6
 Mutation:Scramble
 Mutation prob.: 0.02
 fitness: 54.2
@@ -6681,8 +6141,8 @@ fitness: 54.2
 Population size:200
 Max generations:500
 Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.6
+Recombination:PMX
+Recombination prob.: 0.8
 Mutation:Scramble
 Mutation prob.: 0.07
 fitness: 45.6
@@ -6690,8 +6150,8 @@ fitness: 45.6
 Population size:200
 Max generations:500
 Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.6
+Recombination:PMX
+Recombination prob.: 0.8
 Mutation:Scramble
 Mutation prob.: 0.15
 fitness: 45.6
@@ -6699,8 +6159,8 @@ fitness: 45.6
 Population size:200
 Max generations:500
 Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.8
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
 Mutation:Insert
 Mutation prob.: 0.02
 fitness: 45.6
@@ -6708,8 +6168,8 @@ fitness: 45.6
 Population size:200
 Max generations:500
 Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.8
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
 Mutation:Insert
 Mutation prob.: 0.07
 fitness: 45.6
@@ -6717,8 +6177,8 @@ fitness: 45.6
 Population size:200
 Max generations:500
 Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.8
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
 Mutation:Insert
 Mutation prob.: 0.15
 fitness: 55.2
@@ -6726,17 +6186,17 @@ fitness: 55.2
 Population size:200
 Max generations:500
 Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.8
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
 Mutation:Swap
 Mutation prob.: 0.02
-fitness: 55.2
+fitness: 45.6
 
 Population size:200
 Max generations:500
 Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.8
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
 Mutation:Swap
 Mutation prob.: 0.07
 fitness: 55.2
@@ -6744,11 +6204,542 @@ fitness: 55.2
 Population size:200
 Max generations:500
 Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.8
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
 Mutation:Swap
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Insert
 Mutation prob.: 0.15
 fitness: 54.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Swap
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Swap
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Swap
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.15
+fitness: 54.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Scramble
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Scramble
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.6
+Mutation:Scramble
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Swap
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Swap
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Swap
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Invertion
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Scramble
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Scramble
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Cycle Crossover
+Recombination prob.: 0.8
+Mutation:Scramble
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Insert
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Insert
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Insert
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Swap
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Swap
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Swap
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Invertion
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.4
+Mutation:Scramble
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Swap
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Swap
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Swap
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Scramble
+Mutation prob.: 0.02
+fitness: 54.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Scramble
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.6
+Mutation:Scramble
+Mutation prob.: 0.15
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.02
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.07
+fitness: 45.6
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.8
+Mutation:Insert
+Mutation prob.: 0.15
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.8
+Mutation:Swap
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.8
+Mutation:Swap
+Mutation prob.: 0.07
+fitness: 55.2
 
 Population size:200
 Max generations:500
@@ -6764,7 +6755,25 @@ Max generations:500
 Selection:Tournament(6)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.8
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(6)
+Recombination:Order Crossover
+Recombination prob.: 0.8
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 54.2
 
@@ -6773,15 +6782,6 @@ Max generations:500
 Selection:Tournament(6)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 54.2
-
-Population size:200
-Max generations:500
-Selection:Tournament(6)
-Recombination:Order Crossover
-Recombination prob.: 0.8
 Mutation:Scramble
 Mutation prob.: 0.02
 fitness: 45.6
@@ -6863,25 +6863,25 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
 
 Population size:200
 Max generations:500
 Selection:Tournament(8)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
 
 Population size:200
 Max generations:500
 Selection:Tournament(8)
 Recombination:PMX
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -6971,8 +6971,17 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 45.6
 
 Population size:200
@@ -6980,16 +6989,7 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:PMX
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -7079,7 +7079,25 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
+
+Population size:200
+Max generations:500
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.8
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 45.6
 
@@ -7088,24 +7106,6 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:PMX
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
-
-Population size:200
-Max generations:500
-Selection:Tournament(8)
-Recombination:PMX
-Recombination prob.: 0.8
 Mutation:Scramble
 Mutation prob.: 0.02
 fitness: 45.6
@@ -7187,8 +7187,8 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 45.6
 
 Population size:200
@@ -7196,8 +7196,8 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 45.6
 
 Population size:200
@@ -7205,9 +7205,9 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 45.6
+fitness: 56.2
 
 Population size:200
 Max generations:500
@@ -7295,8 +7295,8 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 45.6
 
 Population size:200
@@ -7304,8 +7304,8 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 45.6
 
 Population size:200
@@ -7313,9 +7313,9 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 45.6
+fitness: 55.2
 
 Population size:200
 Max generations:500
@@ -7403,8 +7403,8 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.02
 fitness: 45.6
 
 Population size:200
@@ -7412,8 +7412,8 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
+Mutation:Invertion
+Mutation prob.: 0.07
 fitness: 45.6
 
 Population size:200
@@ -7421,9 +7421,9 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:Cycle Crossover
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 45.6
+fitness: 55.2
 
 Population size:200
 Max generations:500
@@ -7511,25 +7511,25 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:Order Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 56.2
 
 Population size:200
 Max generations:500
 Selection:Tournament(8)
 Recombination:Order Crossover
 Recombination prob.: 0.4
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 55.2
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 56.2
 
 Population size:200
 Max generations:500
 Selection:Tournament(8)
 Recombination:Order Crossover
 Recombination prob.: 0.4
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
 fitness: 55.2
 
@@ -7619,27 +7619,27 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
 
 Population size:200
 Max generations:500
 Selection:Tournament(8)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
 
 Population size:200
 Max generations:500
 Selection:Tournament(8)
 Recombination:Order Crossover
 Recombination prob.: 0.6
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 45.6
+fitness: 55.2
 
 Population size:200
 Max generations:500
@@ -7727,27 +7727,27 @@ Max generations:500
 Selection:Tournament(8)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 55.2
 
 Population size:200
 Max generations:500
 Selection:Tournament(8)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
-Mutation prob.: 0.15
-fitness: 45.6
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 55.2
 
 Population size:200
 Max generations:500
 Selection:Tournament(8)
 Recombination:Order Crossover
 Recombination prob.: 0.8
-Mutation:Swap
+Mutation:Invertion
 Mutation prob.: 0.15
-fitness: 45.6
+fitness: 54.2
 
 Population size:200
 Max generations:500
