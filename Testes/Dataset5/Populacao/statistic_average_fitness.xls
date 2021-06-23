@@ -1,5 +1,5 @@
 Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
-100	750	Tournament(2)	PMX	0.7	Insert	0.05		1280.7	66.55361247395466
-120	625	Tournament(2)	PMX	0.7	Insert	0.05		1252.3	62.89692626300059
-200	375	Tournament(2)	PMX	0.7	Insert	0.05		1239.6666666666667	62.789985047157174
-150	500	Tournament(2)	PMX	0.7	Insert	0.05		1274.2666666666667	60.52654146919532
+População 100	Geração 750	Tournament(2)	PMX	0.7	Insert	0.05		1280,7	66.55361247395466
+População 120	Geração 625	Tournament(2)	PMX	0.7	Insert	0.05		1252,3	62.89692626300059
+População 200	Geração 375	Tournament(2)	PMX	0.7	Insert	0.05		1239,666667	62.789985047157174
+População 150	Geração 500	Tournament(2)	PMX	0.7	Insert	0.05		1274,266667	60.52654146919532
