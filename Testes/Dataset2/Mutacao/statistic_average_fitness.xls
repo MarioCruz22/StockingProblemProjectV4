@@ -1,17 +1,17 @@
 Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
-150	335	Tournament(2)	Order Crossover	0.9	Insert	0.02		55.70799999999998	1.6263874077230185
-150	335	Tournament(2)	Order Crossover	0.9	Insert	0.05		55.799999999999976	0.6928203230275508
-150	335	Tournament(2)	Order Crossover	0.9	Insert	0.07		55.62799999999997	1.6248126045793705
-150	335	Tournament(2)	Order Crossover	0.9	Insert	0.12		55.47599999999998	2.123728796244945
-150	335	Tournament(2)	Order Crossover	0.9	Swap	0.02		55.48799999999997	1.6371487409517802
-150	335	Tournament(2)	Order Crossover	0.9	Swap	0.05		55.24399999999998	2.558840362351665
-150	335	Tournament(2)	Order Crossover	0.9	Swap	0.07		55.85999999999997	0.7901898506055366
-150	335	Tournament(2)	Order Crossover	0.9	Swap	0.12		55.535999999999966	2.091292423359296
-150	335	Tournament(2)	Order Crossover	0.9	Invertion	0.02		55.59599999999997	2.151646811165811
-150	335	Tournament(2)	Order Crossover	0.9	Invertion	0.05		55.403999999999975	2.551075067496055
-150	335	Tournament(2)	Order Crossover	0.9	Invertion	0.07		54.95999999999997	3.1872244978978177
-150	335	Tournament(2)	Order Crossover	0.9	Invertion	0.12		55.16399999999998	2.503658123626307
-150	335	Tournament(2)	Order Crossover	0.9	Scramble	0.02		55.58799999999997	1.5596974065503875
-150	335	Tournament(2)	Order Crossover	0.9	Scramble	0.05		55.20399999999998	2.5198380900367394
-150	335	Tournament(2)	Order Crossover	0.9	Scramble	0.07		55.89999999999997	0.7810249675906658
-150	335	Tournament(2)	Order Crossover	0.9	Scramble	0.12		55.607999999999976	1.5989796746675675
+150	335	Tournament(2)	Order Crossover	0.9	Insert	0.02		55,708	1.6263874077230185
+150	335	Tournament(2)	Order Crossover	0.9		0.05		55,8	0.6928203230275508
+150	335	Tournament(2)	Order Crossover	0.9		0.07		55,628	1.6248126045793705
+150	335	Tournament(2)	Order Crossover	0.9		0.12		55,476	2.123728796244945
+150	335	Tournament(2)	Order Crossover	0.9	Swap	0.02		55,488	1.6371487409517802
+150	335	Tournament(2)	Order Crossover	0.9		0.05		55,244	2.558840362351665
+150	335	Tournament(2)	Order Crossover	0.9		0.07		55,86	0.7901898506055366
+150	335	Tournament(2)	Order Crossover	0.9		0.12		55,536	2.091292423359296
+150	335	Tournament(2)	Order Crossover	0.9	Invertion	0.02		55,596	2.151646811165811
+150	335	Tournament(2)	Order Crossover	0.9		0.05		55,404	2.551075067496055
+150	335	Tournament(2)	Order Crossover	0.9		0.07		54,96	3.1872244978978177
+150	335	Tournament(2)	Order Crossover	0.9		0.12		55,164	2.503658123626307
+150	335	Tournament(2)	Order Crossover	0.9	Scramble	0.02		55,588	1.5596974065503875
+150	335	Tournament(2)	Order Crossover	0.9		0.05		55,204	2.5198380900367394
+150	335	Tournament(2)	Order Crossover	0.9		0.07		55,9	0.7810249675906658
+150	335	Tournament(2)	Order Crossover	0.9		0.12		55,608	1.5989796746675675
