@@ -1,8 +1,12 @@
 Runs: 50
-//é o 50 - 500 que e o principal (convergente)
-Population_size: 150
+//é o 50 - 1000 que e o principal (convergente)
+//é o 100 - 500 que e o principal (convergente)
+//é o 150 - 335 que e o principal (convergente)
+//é o 200 - 250 que e o principal (convergente)
 
-Max_generations: 335
+Population_size: 200
+
+Max_generations: 250
 
 //--------------------------------
 //tournament

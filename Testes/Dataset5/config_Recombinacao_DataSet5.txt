@@ -1,22 +1,21 @@
-Runs: 50
-//é o 50 - 500 que e o principal (convergente)
+Runs: 30
 
-Population_size: 150
+Population_size: 200
 
-Max_generations: 335
+Max_generations: 375
 
 //--------------------------------
 //tournament
 //roulette_wheel
 Selection: tournament
 
-Tournament_size: 2, 4, 6, 8, 10
+Tournament_size: 2
 
 //--------------------------------
 
-Recombination: pmx
+Recombination: pmx, cycle_crossover, order_crossover 
 
-Recombination_probability: 0.7
+Recombination_probability: 0.4, 0.6, 0.7, 0.9
 
 //--------------------------------
 
@@ -29,7 +28,7 @@ Mutation_probability: 0.05
 
 //--------------------------------
 
-Problem_file: ./Problema2.txt
+Problem_file: ./Problema5.txt
 
 //--------------------------------
 

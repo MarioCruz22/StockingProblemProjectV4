@@ -1,16 +1,20 @@
-Runs: 50
-//é o 50 - 500 que e o principal (convergente)
+Runs: 30
+
+//é o 100 - 750 que e o principal (convergente)
+//é o 120 - 625 que e o principal (convergente)
+//é o 200 - 375 que e o principal (convergente)
+//é o 150 - 500 que e o principal (convergente)
 
 Population_size: 150
 
-Max_generations: 335
+Max_generations: 500
 
 //--------------------------------
 //tournament
 //roulette_wheel
 Selection: tournament
 
-Tournament_size: 2, 4, 6, 8, 10
+Tournament_size: 2
 
 //--------------------------------
 
@@ -29,7 +33,7 @@ Mutation_probability: 0.05
 
 //--------------------------------
 
-Problem_file: ./Problema2.txt
+Problem_file: ./Problema5.txt
 
 //--------------------------------
 

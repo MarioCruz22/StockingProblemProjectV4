@@ -1,8 +1,8 @@
 Runs: 50
 //é o 50 - 500 que e o principal (convergente)
-Population_size: 100
+Population_size: 200
 
-Max_generations: 250
+Max_generations: 375
 
 //--------------------------------
 //tournament
@@ -15,7 +15,7 @@ Tournament_size: 2
 
 Recombination: order_crossover
 
-Recombination_probability: 0.9
+Recombination_probability: 0.7
 
 //--------------------------------
 

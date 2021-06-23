@@ -1,0 +1,5 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Fitness:	Seed:
+100	750	Tournament(2)	PMX	0.7	Insert	0.05		288.2	19
+120	625	Tournament(2)	PMX	0.7	Insert	0.05		273.2	26
+200	375	Tournament(2)	PMX	0.7	Insert	0.05		269.0	30
+150	500	Tournament(2)	PMX	0.7	Insert	0.05		277.2	12

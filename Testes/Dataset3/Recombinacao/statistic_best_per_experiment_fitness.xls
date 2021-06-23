@@ -1,0 +1,28 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Fitness:	Seed:
+200	375	Tournament(2)	PMX	0.1	Insert	0.05		78.2	38
+200	375	Tournament(2)	PMX	0.2	Insert	0.05		81.2	7
+200	375	Tournament(2)	PMX	0.3	Insert	0.05		79.2	13
+200	375	Tournament(2)	PMX	0.4	Insert	0.05		77.2	7
+200	375	Tournament(2)	PMX	0.5	Insert	0.05		78.2	44
+200	375	Tournament(2)	PMX	0.6	Insert	0.05		80.2	9
+200	375	Tournament(2)	PMX	0.7	Insert	0.05		79.2	24
+200	375	Tournament(2)	PMX	0.8	Insert	0.05		80.2	34
+200	375	Tournament(2)	PMX	0.9	Insert	0.05		79.2	17
+200	375	Tournament(2)	Cycle Crossover	0.1	Insert	0.05		82.2	48
+200	375	Tournament(2)	Cycle Crossover	0.2	Insert	0.05		82.2	27
+200	375	Tournament(2)	Cycle Crossover	0.3	Insert	0.05		78.2	48
+200	375	Tournament(2)	Cycle Crossover	0.4	Insert	0.05		82.2	13
+200	375	Tournament(2)	Cycle Crossover	0.5	Insert	0.05		82.2	5
+200	375	Tournament(2)	Cycle Crossover	0.6	Insert	0.05		82.2	5
+200	375	Tournament(2)	Cycle Crossover	0.7	Insert	0.05		81.2	9
+200	375	Tournament(2)	Cycle Crossover	0.8	Insert	0.05		80.2	2
+200	375	Tournament(2)	Cycle Crossover	0.9	Insert	0.05		81.2	2
+200	375	Tournament(2)	Order Crossover	0.1	Insert	0.05		83.2	13
+200	375	Tournament(2)	Order Crossover	0.2	Insert	0.05		81.2	40
+200	375	Tournament(2)	Order Crossover	0.3	Insert	0.05		78.2	38
+200	375	Tournament(2)	Order Crossover	0.4	Insert	0.05		78.2	20
+200	375	Tournament(2)	Order Crossover	0.5	Insert	0.05		77.2	6
+200	375	Tournament(2)	Order Crossover	0.6	Insert	0.05		78.2	17
+200	375	Tournament(2)	Order Crossover	0.7	Insert	0.05		80.2	34
+200	375	Tournament(2)	Order Crossover	0.8	Insert	0.05		80.2	9
+200	375	Tournament(2)	Order Crossover	0.9	Insert	0.05		81.2	25

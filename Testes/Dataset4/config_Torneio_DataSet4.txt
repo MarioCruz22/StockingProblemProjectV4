@@ -1,9 +1,9 @@
-Runs: 50
-//é o 50 - 500 que e o principal (convergente)
+Runs: 40
 
-Population_size: 150
 
-Max_generations: 335
+Population_size: 200
+
+Max_generations: 375
 
 //--------------------------------
 //tournament
@@ -29,7 +29,7 @@ Mutation_probability: 0.05
 
 //--------------------------------
 
-Problem_file: ./Problema2.txt
+Problem_file: ./Problema4.txt
 
 //--------------------------------
 

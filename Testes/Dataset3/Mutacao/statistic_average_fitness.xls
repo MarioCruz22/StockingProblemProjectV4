@@ -1,0 +1,17 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
+200	375	Tournament(2)	Order Crossover	0.7	Insert	0.02		84.77999999999993	4.617748369064732
+200	375	Tournament(2)	Order Crossover	0.7	Insert	0.05		84.01999999999992	2.70325729445053
+200	375	Tournament(2)	Order Crossover	0.7	Insert	0.07		83.15999999999993	2.959459410095025
+200	375	Tournament(2)	Order Crossover	0.7	Insert	0.12		84.61999999999993	3.655625801418957
+200	375	Tournament(2)	Order Crossover	0.7	Swap	0.02		83.61999999999993	4.186119921836926
+200	375	Tournament(2)	Order Crossover	0.7	Swap	0.05		83.79999999999993	3.4234485537247386
+200	375	Tournament(2)	Order Crossover	0.7	Swap	0.07		85.63999999999993	4.436935879635855
+200	375	Tournament(2)	Order Crossover	0.7	Swap	0.12		86.29999999999993	4.491102314577124
+200	375	Tournament(2)	Order Crossover	0.7	Invertion	0.02		84.53999999999992	4.02298396715672
+200	375	Tournament(2)	Order Crossover	0.7	Invertion	0.05		84.35999999999993	3.360714209807195
+200	375	Tournament(2)	Order Crossover	0.7	Invertion	0.07		85.71999999999993	4.055810646467608
+200	375	Tournament(2)	Order Crossover	0.7	Invertion	0.12		87.73999999999992	4.369027351711134
+200	375	Tournament(2)	Order Crossover	0.7	Scramble	0.02		85.03999999999992	4.82642725004739
+200	375	Tournament(2)	Order Crossover	0.7	Scramble	0.05		83.75999999999993	3.9200000000000004
+200	375	Tournament(2)	Order Crossover	0.7	Scramble	0.07		83.37999999999992	2.26883229878279
+200	375	Tournament(2)	Order Crossover	0.7	Scramble	0.12		85.75999999999993	4.459417002254892

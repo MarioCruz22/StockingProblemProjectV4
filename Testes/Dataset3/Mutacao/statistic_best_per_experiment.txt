@@ -1,0 +1,145 @@
+
+
+Population size:200
+Max generations:375
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.7
+Mutation:Insert
+Mutation prob.: 0.02
+fitness: 79.2
+
+Population size:200
+Max generations:375
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.7
+Mutation:Insert
+Mutation prob.: 0.05
+fitness: 80.2
+
+Population size:200
+Max generations:375
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.7
+Mutation:Insert
+Mutation prob.: 0.07
+fitness: 77.2
+
+Population size:200
+Max generations:375
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.7
+Mutation:Insert
+Mutation prob.: 0.12
+fitness: 79.2
+
+Population size:200
+Max generations:375
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.7
+Mutation:Swap
+Mutation prob.: 0.02
+fitness: 77.2
+
+Population size:200
+Max generations:375
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.7
+Mutation:Swap
+Mutation prob.: 0.05
+fitness: 79.2
+
+Population size:200
+Max generations:375
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.7
+Mutation:Swap
+Mutation prob.: 0.07
+fitness: 78.2
+
+Population size:200
+Max generations:375
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.7
+Mutation:Swap
+Mutation prob.: 0.12
+fitness: 80.2
+
+Population size:200
+Max generations:375
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.7
+Mutation:Invertion
+Mutation prob.: 0.02
+fitness: 77.2
+
+Population size:200
+Max generations:375
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.7
+Mutation:Invertion
+Mutation prob.: 0.05
+fitness: 80.2
+
+Population size:200
+Max generations:375
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.7
+Mutation:Invertion
+Mutation prob.: 0.07
+fitness: 80.2
+
+Population size:200
+Max generations:375
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.7
+Mutation:Invertion
+Mutation prob.: 0.12
+fitness: 80.2
+
+Population size:200
+Max generations:375
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.7
+Mutation:Scramble
+Mutation prob.: 0.02
+fitness: 79.2
+
+Population size:200
+Max generations:375
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.7
+Mutation:Scramble
+Mutation prob.: 0.05
+fitness: 78.2
+
+Population size:200
+Max generations:375
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.7
+Mutation:Scramble
+Mutation prob.: 0.07
+fitness: 80.2
+
+Population size:200
+Max generations:375
+Selection:Tournament(2)
+Recombination:Order Crossover
+Recombination prob.: 0.7
+Mutation:Scramble
+Mutation prob.: 0.12
+fitness: 79.2
